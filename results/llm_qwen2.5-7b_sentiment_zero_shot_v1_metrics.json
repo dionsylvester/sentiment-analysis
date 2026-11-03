@@ -1,0 +1,15 @@
+{
+  "provider": "ollama",
+  "model": "qwen2.5:7b",
+  "prompt": "sentiment_zero_shot_v1",
+  "test_size": 1000,
+  "accuracy": 0.654,
+  "precision_macro": 0.6693510737628384,
+  "recall_macro": 0.6473978242394552,
+  "f1_macro": 0.6393730968717996,
+  "invalid_rate": 0.0,
+  "latency_ms": 415.71269709999615,
+  "latency_ms_median": 400.1667499978794,
+  "prompt_tokens_mean": 196.445,
+  "completion_tokens_mean": 8.0
+}
