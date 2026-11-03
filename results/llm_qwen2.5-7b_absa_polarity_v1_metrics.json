@@ -1,0 +1,15 @@
+{
+  "provider": "ollama",
+  "model": "qwen2.5:7b",
+  "prompt": "absa_polarity_v1",
+  "test_size": 1120,
+  "accuracy": 0.8651785714285715,
+  "precision_macro": 0.7951295503750555,
+  "recall_macro": 0.7854526425954997,
+  "f1_macro": 0.7767741673754965,
+  "invalid_rate": 0.0,
+  "latency_ms": 368.7345035714273,
+  "latency_ms_median": 360.93980000003967,
+  "prompt_tokens_mean": 221.77589285714285,
+  "completion_tokens_mean": 8.0
+}

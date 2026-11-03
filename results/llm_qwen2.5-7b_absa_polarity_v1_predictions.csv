@@ -1,0 +1,1121 @@
+id,aspect,sentiment,pred,raw,latency_ms,prompt_tokens,completion_tokens
+0,bread,positive,positive,"{""sentiment"": ""positive""}",298.8751999999977,207,8
+1,delivery times,positive,positive,"{""sentiment"": ""positive""}",372.3807000000079,216,8
+2,Food,positive,positive,"{""sentiment"": ""positive""}",373.8842000000204,211,8
+3,coffee,positive,positive,"{""sentiment"": ""positive""}",365.4271999999992,211,8
+4,place,positive,positive,"{""sentiment"": ""positive""}",352.20189999995455,226,8
+5,people,positive,positive,"{""sentiment"": ""positive""}",372.7881999999454,213,8
+6,Japanese food,positive,positive,"{""sentiment"": ""positive""}",380.50569999995787,213,8
+7,asian salad,positive,positive,"{""sentiment"": ""positive""}",417.16310000003887,211,8
+8,spicy tuna roll,positive,positive,"{""sentiment"": ""positive""}",383.6229999999432,212,8
+9,rose roll,positive,neutral,"{""sentiment"": ""neutral""}",538.3152999999083,210,8
+10,menu,neutral,negative,"{""sentiment"": ""negative""}",396.5706000000182,209,8
+11,drinks,positive,positive,"{""sentiment"": ""positive""}",357.11670000000595,220,8
+12,lychee martini,positive,positive,"{""sentiment"": ""positive""}",414.12270000000717,223,8
+13,food,positive,positive,"{""sentiment"": ""positive""}",375.1271999999517,219,8
+14,Nicoise salad,negative,negative,"{""sentiment"": ""negative""}",404.7531999999592,217,8
+15,menu,positive,neutral,"{""sentiment"": ""neutral""}",409.9837999999636,226,8
+16,drinks,neutral,negative,"{""sentiment"": ""negative""}",419.267399999967,227,8
+17,dessert pizza,neutral,negative,"{""sentiment"": ""negative""}",354.66570000005504,228,8
+18,food,positive,positive,"{""sentiment"": ""positive""}",388.91229999990173,218,8
+19,live entertainment,positive,positive,"{""sentiment"": ""positive""}",360.51820000000134,219,8
+20,waiter,negative,negative,"{""sentiment"": ""negative""}",393.83169999996426,212,8
+21,sangria,negative,negative,"{""sentiment"": ""negative""}",388.00689999993665,209,8
+22,menu,negative,negative,"{""sentiment"": ""negative""}",392.037000000073,208,8
+23,sushi,positive,positive,"{""sentiment"": ""positive""}",360.9952000000476,229,8
+24,portions,positive,positive,"{""sentiment"": ""positive""}",349.221899999975,230,8
+25,price,positive,positive,"{""sentiment"": ""positive""}",345.5910000000131,229,8
+26,food,positive,positive,"{""sentiment"": ""positive""}",388.8600000000224,208,8
+27,service,negative,negative,"{""sentiment"": ""negative""}",354.87319999992906,208,8
+28,portions of the food,neutral,negative,"{""sentiment"": ""negative""}",396.55229999993935,214,8
+29,waitress's,negative,negative,"{""sentiment"": ""negative""}",404.24029999996947,216,8
+30,staff memebers,positive,positive,"{""sentiment"": ""positive""}",387.673399999926,236,8
+31,parking,positive,positive,"{""sentiment"": ""positive""}",353.4567000000379,235,8
+32,desserts,positive,positive,"{""sentiment"": ""positive""}",387.2454000000971,214,8
+33,Desserts,positive,positive,"{""sentiment"": ""positive""}",353.0756999999767,217,8
+34,Tart of the Day,positive,positive,"{""sentiment"": ""positive""}",343.22550000001684,219,8
+35,food,positive,positive,"{""sentiment"": ""positive""}",387.2241000000258,212,8
+36,wine,positive,positive,"{""sentiment"": ""positive""}",343.7802000000829,212,8
+37,LASAGNA,positive,positive,"{""sentiment"": ""positive""}",357.49029999999493,218,8
+38,array of sushi,positive,positive,"{""sentiment"": ""positive""}",355.5312999999387,219,8
+39,cuisine,positive,positive,"{""sentiment"": ""positive""}",355.7258000000729,219,8
+40,owners,positive,positive,"{""sentiment"": ""positive""}",343.92589999993106,219,8
+41,staff,positive,positive,"{""sentiment"": ""positive""}",343.0661999999529,219,8
+42,indian food,positive,positive,"{""sentiment"": ""positive""}",357.769200000007,222,8
+43,ambiance,positive,positive,"{""sentiment"": ""positive""}",348.2322000000977,221,8
+44,food,positive,positive,"{""sentiment"": ""positive""}",376.1979999999312,207,8
+45,service,positive,positive,"{""sentiment"": ""positive""}",355.29429999996864,231,8
+46,garden,positive,positive,"{""sentiment"": ""positive""}",346.0420000000113,232,8
+47,food,positive,positive,"{""sentiment"": ""positive""}",343.53889999999865,231,8
+48,appetizers,positive,positive,"{""sentiment"": ""positive""}",346.81769999997414,233,8
+49,entrees,positive,positive,"{""sentiment"": ""positive""}",342.43629999991754,232,8
+50,food,positive,positive,"{""sentiment"": ""positive""}",378.27089999996133,211,8
+51,decor,positive,positive,"{""sentiment"": ""positive""}",369.6980000000849,211,8
+52,lunch,negative,negative,"{""sentiment"": ""negative""}",362.4492999999802,219,8
+53,dinners,negative,negative,"{""sentiment"": ""negative""}",347.7801000000227,219,8
+54,steaks,negative,negative,"{""sentiment"": ""negative""}",371.455200000014,210,8
+55,staff,negative,negative,"{""sentiment"": ""negative""}",376.96970000001784,208,8
+56,meatball parm,positive,positive,"{""sentiment"": ""positive""}",379.37639999995554,211,8
+57,latin food,positive,positive,"{""sentiment"": ""positive""}",360.89000000004035,221,8
+58,taglierini with truffles,positive,positive,"{""sentiment"": ""positive""}",352.5458999999955,219,8
+59,staff,positive,positive,"{""sentiment"": ""positive""}",377.6503000000275,212,8
+60,gnocchi,positive,positive,"{""sentiment"": ""positive""}",380.3227999999308,211,8
+61,staff,positive,positive,"{""sentiment"": ""positive""}",377.3407999999563,243,8
+62,food,positive,positive,"{""sentiment"": ""positive""}",344.21549999990475,243,8
+63,portion size,positive,positive,"{""sentiment"": ""positive""}",346.94009999998343,244,8
+64,portobello/gorgonzola/sausage appetizer,positive,positive,"{""sentiment"": ""positive""}",379.248299999972,254,8
+65,lobster risotto,positive,positive,"{""sentiment"": ""positive""}",345.69390000001476,246,8
+66,Entrees,neutral,neutral,"{""sentiment"": ""neutral""}",357.34049999996387,221,8
+67,lasagna,neutral,neutral,"{""sentiment"": ""neutral""}",351.16260000006605,221,8
+68,fettuccine Alfredo,neutral,neutral,"{""sentiment"": ""neutral""}",353.88860000000477,224,8
+69,chicken parmigiana,neutral,neutral,"{""sentiment"": ""neutral""}",347.46849999999085,224,8
+70,food,positive,positive,"{""sentiment"": ""positive""}",384.35630000003584,211,8
+71,teriyaki,positive,positive,"{""sentiment"": ""positive""}",351.0473000000047,213,8
+72,Meal,negative,negative,"{""sentiment"": ""negative""}",379.57109999990735,209,8
+73,Peanut Butter Sorbet,positive,positive,"{""sentiment"": ""positive""}",388.92850000002,217,8
+74,pizza with soy cheese,positive,positive,"{""sentiment"": ""positive""}",347.55489999997735,216,8
+75,food,positive,positive,"{""sentiment"": ""positive""}",376.1949999999388,214,8
+76,price,positive,positive,"{""sentiment"": ""positive""}",344.33739999997215,214,8
+77,food,positive,positive,"{""sentiment"": ""positive""}",381.05700000005527,216,8
+78,service,positive,positive,"{""sentiment"": ""positive""}",349.00199999992765,216,8
+79,atmosphere,positive,positive,"{""sentiment"": ""positive""}",344.72549999998137,218,8
+80,food,positive,positive,"{""sentiment"": ""positive""}",351.9759000000704,217,8
+81,waitstaff,positive,positive,"{""sentiment"": ""positive""}",348.2202000000143,218,8
+82,atmosphere,positive,positive,"{""sentiment"": ""positive""}",345.29680000002827,219,8
+83,beer,positive,positive,"{""sentiment"": ""positive""}",346.7754999999215,217,8
+84,food,positive,positive,"{""sentiment"": ""positive""}",357.17780000004495,232,8
+85,kimono shrimp special,positive,positive,"{""sentiment"": ""positive""}",345.95390000004045,235,8
+86,atmosphere,positive,positive,"{""sentiment"": ""positive""}",344.8386999999684,234,8
+87,menu,positive,positive,"{""sentiment"": ""positive""}",379.0622000000212,208,8
+88,priced,positive,positive,"{""sentiment"": ""positive""}",345.4199000000244,209,8
+89,food,positive,positive,"{""sentiment"": ""positive""}",382.7535000000353,210,8
+90,ingredients,positive,positive,"{""sentiment"": ""positive""}",341.5453999999727,210,8
+91,food,negative,negative,"{""sentiment"": ""negative""}",357.0320000000038,222,8
+92,Appetizer,positive,positive,"{""sentiment"": ""positive""}",355.7239000000436,223,8
+93,meal,positive,positive,"{""sentiment"": ""positive""}",347.1882999999707,221,8
+94,spicy mussels,positive,positive,"{""sentiment"": ""positive""}",377.79060000002573,210,8
+95,Onion Rings,positive,positive,"{""sentiment"": ""positive""}",379.9259999999549,214,8
+96,food,negative,negative,"{""sentiment"": ""negative""}",380.18480000005184,214,8
+97,portions,positive,positive,"{""sentiment"": ""positive""}",386.9809999999916,214,8
+98,service,positive,positive,"{""sentiment"": ""positive""}",344.04829999994035,213,8
+99,prices,positive,positive,"{""sentiment"": ""positive""}",345.1787000000195,213,8
+100,service,negative,negative,"{""sentiment"": ""negative""}",379.6723000000384,209,8
+101,food,negative,negative,"{""sentiment"": ""negative""}",342.19629999995504,209,8
+102,waiter,negative,negative,"{""sentiment"": ""negative""}",353.97020000004886,223,8
+103,manager,negative,negative,"{""sentiment"": ""negative""}",345.3056999999262,222,8
+104,food,positive,positive,"{""sentiment"": ""positive""}",377.9336999999714,212,8
+105,milkshakes,positive,positive,"{""sentiment"": ""positive""}",344.1275999999789,214,8
+106,mushroom barley soup,positive,positive,"{""sentiment"": ""positive""}",377.36930000005486,210,8
+107,food,positive,positive,"{""sentiment"": ""positive""}",355.64209999995455,220,8
+108,staff,positive,positive,"{""sentiment"": ""positive""}",345.8315999999968,220,8
+109,duck,positive,positive,"{""sentiment"": ""positive""}",372.9964999999993,208,8
+110,drinks,positive,positive,"{""sentiment"": ""positive""}",389.13419999994403,221,8
+111,food,positive,positive,"{""sentiment"": ""positive""}",350.33390000000963,220,8
+112,curried casseroles,negative,negative,"{""sentiment"": ""negative""}",360.82569999996394,222,8
+113,food,positive,positive,"{""sentiment"": ""positive""}",380.81640000007155,209,8
+114,taste,positive,positive,"{""sentiment"": ""positive""}",374.60200000009536,208,8
+115,seafood,positive,positive,"{""sentiment"": ""positive""}",361.41029999998864,232,8
+116,cuisine,positive,positive,"{""sentiment"": ""positive""}",348.4073999999282,231,8
+117,orange donut,neutral,neutral,"{""sentiment"": ""neutral""}",394.13550000006126,216,8
+118,atmosphere,positive,positive,"{""sentiment"": ""positive""}",381.10789999996086,212,8
+119,meats,negative,negative,"{""sentiment"": ""negative""}",375.6575999999541,209,8
+120,Management,negative,negative,"{""sentiment"": ""negative""}",378.2964000000675,208,8
+121,ambience,positive,positive,"{""sentiment"": ""positive""}",387.39350000003014,211,8
+122,teas,positive,positive,"{""sentiment"": ""positive""}",381.00299999996423,212,8
+123,sweets,positive,positive,"{""sentiment"": ""positive""}",339.72370000003593,211,8
+124,mojitos,positive,positive,"{""sentiment"": ""positive""}",382.9051000000163,215,8
+125,service,positive,positive,"{""sentiment"": ""positive""}",341.7720999999574,213,8
+126,Sandwiches,positive,positive,"{""sentiment"": ""positive""}",355.66740000001573,222,8
+127,burgers,positive,positive,"{""sentiment"": ""positive""}",347.14180000003125,221,8
+128,salads,positive,positive,"{""sentiment"": ""positive""}",343.5466000000815,221,8
+129,lemon-dressed cobb,positive,positive,"{""sentiment"": ""positive""}",348.3615999999756,225,8
+130,design,positive,positive,"{""sentiment"": ""positive""}",367.1702000000323,207,8
+131,food,positive,positive,"{""sentiment"": ""positive""}",372.54510000002483,206,8
+132,staff,positive,positive,"{""sentiment"": ""positive""}",376.9218999999566,210,8
+133,taste,negative,negative,"{""sentiment"": ""negative""}",378.8088000000016,206,8
+134,fajita,negative,negative,"{""sentiment"": ""negative""}",355.7354000000714,220,8
+135,mole sauce,negative,negative,"{""sentiment"": ""negative""}",341.2109999999302,220,8
+136,roasted chickens,positive,positive,"{""sentiment"": ""positive""}",377.56530000001476,213,8
+137,atmosphere,positive,positive,"{""sentiment"": ""positive""}",380.2711000000727,213,8
+138,food,positive,positive,"{""sentiment"": ""positive""}",381.93470000010166,217,8
+139,selection,positive,positive,"{""sentiment"": ""positive""}",341.42719999999827,217,8
+140,prices,positive,positive,"{""sentiment"": ""positive""}",343.8241000000062,217,8
+141,drinks,positive,positive,"{""sentiment"": ""positive""}",340.2052999999796,218,8
+142,steak,positive,positive,"{""sentiment"": ""positive""}",375.2479999999423,207,8
+143,waiters,positive,positive,"{""sentiment"": ""positive""}",358.1953999999996,226,8
+144,food,neutral,neutral,"{""sentiment"": ""neutral""}",341.5595999999823,225,8
+145,priced,positive,positive,"{""sentiment"": ""positive""}",374.6426000000156,209,8
+146,selection of food,positive,positive,"{""sentiment"": ""positive""}",360.19710000005034,225,8
+147,atmosphere,positive,positive,"{""sentiment"": ""positive""}",342.8490999999667,225,8
+148,dessert,negative,negative,"{""sentiment"": ""negative""}",358.6177999999336,221,8
+149,taste,negative,negative,"{""sentiment"": ""negative""}",343.81120000000465,220,8
+150,Food,positive,neutral,"{""sentiment"": ""neutral""}",373.9234999999326,208,8
+151,hot dog,negative,negative,"{""sentiment"": ""negative""}",379.19369999997343,216,8
+152,bar,positive,positive,"{""sentiment"": ""positive""}",380.3666000000021,214,8
+153,food,positive,positive,"{""sentiment"": ""positive""}",343.01219999997556,214,8
+154,waiters,negative,negative,"{""sentiment"": ""negative""}",387.0330999999396,216,8
+155,atmosphere,positive,positive,"{""sentiment"": ""positive""}",357.06359999994675,220,8
+156,food,positive,positive,"{""sentiment"": ""positive""}",355.84449999998924,220,8
+157,wraps,positive,positive,"{""sentiment"": ""positive""}",357.477900000049,231,8
+158,burgers,positive,positive,"{""sentiment"": ""positive""}",344.22489999997197,231,8
+159,salads,positive,positive,"{""sentiment"": ""positive""}",346.61769999991066,231,8
+160,mango margareta,positive,positive,"{""sentiment"": ""positive""}",360.916199999906,233,8
+161,prices,positive,negative,"{""sentiment"": ""negative""}",385.1012999999739,213,8
+162,service,positive,positive,"{""sentiment"": ""positive""}",373.9779999999655,208,8
+163,waiter,positive,positive,"{""sentiment"": ""positive""}",356.59420000001774,221,8
+164,staff,negative,negative,"{""sentiment"": ""negative""}",346.9006000000263,220,8
+165,folding chair,negative,negative,"{""sentiment"": ""negative""}",375.58259999991606,210,8
+166,Service,positive,positive,"{""sentiment"": ""positive""}",377.5784999999132,212,8
+167,fettucino alfredo,positive,positive,"{""sentiment"": ""positive""}",392.4126999999089,215,8
+168,food,positive,positive,"{""sentiment"": ""positive""}",382.76199999995697,216,8
+169,vegan options,positive,positive,"{""sentiment"": ""positive""}",341.92480000001524,218,8
+170,Indian food,negative,negative,"{""sentiment"": ""negative""}",379.3260999999575,211,8
+171,Smoked Trout,positive,neutral,"{""sentiment"": ""neutral""}",364.1303000000562,234,8
+172,Lamb Chops,positive,neutral,"{""sentiment"": ""neutral""}",352.33659999994416,234,8
+173,Veal Chops,positive,neutral,"{""sentiment"": ""neutral""}",349.3310000000065,235,8
+174,Rabbit,positive,neutral,"{""sentiment"": ""neutral""}",346.4046999999937,232,8
+175,potato gratin,positive,positive,"{""sentiment"": ""positive""}",346.7931000000135,235,8
+176,chef,neutral,negative,"{""sentiment"": ""negative""}",355.1280000000361,219,8
+177,food,positive,positive,"{""sentiment"": ""positive""}",340.67960000004405,219,8
+178,service,positive,positive,"{""sentiment"": ""positive""}",341.83649999999943,219,8
+179,eggs benedict,positive,positive,"{""sentiment"": ""positive""}",354.7248000000991,226,8
+180,mussels,positive,positive,"{""sentiment"": ""positive""}",345.23939999996855,222,8
+181,hamburger,positive,positive,"{""sentiment"": ""positive""}",349.4499999999334,223,8
+182,waiters,positive,positive,"{""sentiment"": ""positive""}",384.01469999996607,211,8
+183,falafal,negative,negative,"{""sentiment"": ""negative""}",382.27999999992335,217,8
+184,chicken,positive,neutral,"{""sentiment"": ""neutral""}",364.86549999995077,216,8
+185,grand marnier shrimp,positive,positive,"{""sentiment"": ""positive""}",371.62549999993644,221,8
+186,food,positive,positive,"{""sentiment"": ""positive""}",368.07279999993625,222,8
+187,food,positive,positive,"{""sentiment"": ""positive""}",312.76760000002923,222,8
+188,service,positive,positive,"{""sentiment"": ""positive""}",355.83090000000084,222,8
+189,Desserts,neutral,neutral,"{""sentiment"": ""neutral""}",389.9067999999488,212,8
+190,flan,neutral,neutral,"{""sentiment"": ""neutral""}",350.51019999991695,212,8
+191,sopaipillas,neutral,neutral,"{""sentiment"": ""neutral""}",346.16920000007667,213,8
+192,portions,negative,negative,"{""sentiment"": ""negative""}",379.9687000000631,212,8
+193,wait staff,negative,negative,"{""sentiment"": ""negative""}",383.53250000000116,210,8
+194,food,negative,negative,"{""sentiment"": ""negative""}",377.0888000000241,210,8
+195,service,negative,negative,"{""sentiment"": ""negative""}",345.1948000000584,210,8
+196,sushi,negative,positive,"{""sentiment"": ""positive""}",383.3038000000215,211,8
+197,service,positive,positive,"{""sentiment"": ""positive""}",387.3164999999972,212,8
+198,soup,positive,positive,"{""sentiment"": ""positive""}",345.61359999997876,212,8
+199,crepes,positive,positive,"{""sentiment"": ""positive""}",388.6261000000104,216,8
+200,desserts,positive,positive,"{""sentiment"": ""positive""}",363.1890999999996,238,8
+201,creme brulee,positive,positive,"{""sentiment"": ""positive""}",349.73839999997836,241,8
+202,apple tart,positive,positive,"{""sentiment"": ""positive""}",343.0660999999873,238,8
+203,shrimp creole,positive,positive,"{""sentiment"": ""positive""}",401.5981999999667,210,8
+204,chicken dinner,positive,positive,"{""sentiment"": ""positive""}",374.85079999999016,208,8
+205,chili signed food items,negative,negative,"{""sentiment"": ""negative""}",357.9144999999926,229,8
+206,decor,neutral,neutral,"{""sentiment"": ""neutral""}",378.66760000008526,210,8
+207,food,positive,positive,"{""sentiment"": ""positive""}",371.6279000000213,206,8
+208,coconut rice,positive,neutral,"{""sentiment"": ""neutral""}",382.5967000000219,216,8
+209,ribs,positive,positive,"{""sentiment"": ""positive""}",346.9319999999243,215,8
+210,beef,positive,neutral,"{""sentiment"": ""neutral""}",348.7956999999824,215,8
+211,avocado salad,positive,positive,"{""sentiment"": ""positive""}",378.4669000000349,210,8
+212,honey BBQ rib tips,positive,positive,"{""sentiment"": ""positive""}",389.2824000000701,214,8
+213,Chinese food,positive,positive,"{""sentiment"": ""positive""}",374.40830000002734,208,8
+214,Service,positive,positive,"{""sentiment"": ""positive""}",382.24400000001424,212,8
+215,staff,positive,positive,"{""sentiment"": ""positive""}",379.4131000000789,205,8
+216,Waiters,positive,positive,"{""sentiment"": ""positive""}",384.2574999999897,215,8
+217,pasta,positive,positive,"{""sentiment"": ""positive""}",348.8399999999956,214,8
+218,wine list,positive,positive,"{""sentiment"": ""positive""}",377.7615000000196,209,8
+219,cocktail menu,positive,positive,"{""sentiment"": ""positive""}",345.44930000004115,210,8
+220,crab cakes,positive,positive,"{""sentiment"": ""positive""}",393.291999999974,213,8
+221,BBQ rib,positive,positive,"{""sentiment"": ""positive""}",347.5144999999884,213,8
+222,food,positive,positive,"{""sentiment"": ""positive""}",385.61779999997725,211,8
+223,service,positive,positive,"{""sentiment"": ""positive""}",384.19420000002447,207,8
+224,service,positive,positive,"{""sentiment"": ""positive""}",358.94999999993615,226,8
+225,desserts,positive,positive,"{""sentiment"": ""positive""}",385.93459999992774,227,8
+226,atmosphere,positive,positive,"{""sentiment"": ""positive""}",388.0006000000549,213,8
+227,drinks,neutral,positive,"{""sentiment"": ""positive""}",361.48400000001857,212,8
+228,appetizers,neutral,positive,"{""sentiment"": ""positive""}",350.2793999999767,213,8
+229,pizza,positive,positive,"{""sentiment"": ""positive""}",377.64479999998457,209,8
+230,service,positive,positive,"{""sentiment"": ""positive""}",362.09100000007766,232,8
+231,food,positive,positive,"{""sentiment"": ""positive""}",348.51079999998547,232,8
+232,beer list,positive,positive,"{""sentiment"": ""positive""}",345.3794999999218,233,8
+233,chinese food,negative,negative,"{""sentiment"": ""negative""}",356.5432000000328,218,8
+234,waiter,neutral,negative,"{""sentiment"": ""negative""}",383.49219999997786,212,8
+235,scallops,neutral,neutral,"{""sentiment"": ""neutral""}",359.2290999999932,224,8
+236,asparagus,neutral,neutral,"{""sentiment"": ""neutral""}",352.227399999947,223,8
+237,soft shell crab,neutral,neutral,"{""sentiment"": ""neutral""}",366.6907000000492,224,8
+238,cheese plate,neutral,neutral,"{""sentiment"": ""neutral""}",347.95789999998306,224,8
+239,service,positive,positive,"{""sentiment"": ""positive""}",385.7950999999957,210,8
+240,hotdogs,negative,negative,"{""sentiment"": ""negative""}",387.0623999999907,215,8
+241,staff,positive,positive,"{""sentiment"": ""positive""}",358.28670000000784,220,8
+242,Saag gosht,positive,positive,"{""sentiment"": ""positive""}",350.2008000000387,224,8
+243,garlic knots,positive,positive,"{""sentiment"": ""positive""}",377.52469999998084,208,8
+244,Indian food,positive,positive,"{""sentiment"": ""positive""}",377.3530999999366,209,8
+245,pizza,positive,positive,"{""sentiment"": ""positive""}",381.7579999999907,206,8
+246,music,negative,negative,"{""sentiment"": ""negative""}",390.55550000000494,212,8
+247,service,positive,positive,"{""sentiment"": ""positive""}",387.5650999999607,210,8
+248,owner,positive,positive,"{""sentiment"": ""positive""}",390.5141000000185,213,8
+249,staff,positive,positive,"{""sentiment"": ""positive""}",347.925000000032,213,8
+250,sushi,positive,positive,"{""sentiment"": ""positive""}",393.8255000000481,213,8
+251,menu,positive,positive,"{""sentiment"": ""positive""}",348.75670000008085,213,8
+252,food,positive,positive,"{""sentiment"": ""positive""}",386.26990000000205,215,8
+253,sushi,positive,positive,"{""sentiment"": ""positive""}",345.1143999999431,215,8
+254,cooked food,positive,positive,"{""sentiment"": ""positive""}",345.57169999993675,216,8
+255,dinner specials,positive,positive,"{""sentiment"": ""positive""}",380.7454999999891,207,8
+256,food,positive,positive,"{""sentiment"": ""positive""}",385.662699999898,210,8
+257,drinks,positive,positive,"{""sentiment"": ""positive""}",347.73870000003626,211,8
+258,dining atmosphere,positive,positive,"{""sentiment"": ""positive""}",347.81580000003487,211,8
+259,price,negative,negative,"{""sentiment"": ""negative""}",357.00889999998253,225,8
+260,food,negative,negative,"{""sentiment"": ""negative""}",346.5572999999722,225,8
+261,Food portion,negative,negative,"{""sentiment"": ""negative""}",388.3852999999817,209,8
+262,chairs,positive,positive,"{""sentiment"": ""positive""}",391.57590000002074,210,8
+263,Tacos Pastor,positive,positive,"{""sentiment"": ""positive""}",358.0124000000069,219,8
+264,Tostada de Tinga,positive,positive,"{""sentiment"": ""positive""}",349.79520000001685,222,8
+265,bartenders,positive,positive,"{""sentiment"": ""positive""}",357.05940000002556,225,8
+266,managers,positive,positive,"{""sentiment"": ""positive""}",349.6403999999984,225,8
+267,decor,positive,positive,"{""sentiment"": ""positive""}",346.5676999999232,224,8
+268,hot and sour soup,positive,positive,"{""sentiment"": ""positive""}",357.1273000000019,221,8
+269,soup and sandwich meal,positive,positive,"{""sentiment"": ""positive""}",355.6671000000051,221,8
+270,drinks,positive,positive,"{""sentiment"": ""positive""}",357.7843999999004,218,8
+271,atmosphere,positive,positive,"{""sentiment"": ""positive""}",348.6576000000241,219,8
+272,service,positive,positive,"{""sentiment"": ""positive""}",348.31450000001496,217,8
+273,food,positive,positive,"{""sentiment"": ""positive""}",349.19830000001184,217,8
+274,chick peas with shrimp (appetizer),positive,positive,"{""sentiment"": ""positive""}",356.12460000004376,223,8
+275,service,negative,negative,"{""sentiment"": ""negative""}",358.09580000000096,222,8
+276,lamb,positive,positive,"{""sentiment"": ""positive""}",386.9570000000522,211,8
+277,soft shell crab sandwich with fries,positive,positive,"{""sentiment"": ""positive""}",394.16990000006535,215,8
+278,hong kong-style food,positive,positive,"{""sentiment"": ""positive""}",356.9941000000654,222,8
+279,food,positive,positive,"{""sentiment"": ""positive""}",382.7677000000449,208,8
+280,wine,positive,positive,"{""sentiment"": ""positive""}",346.43949999997403,208,8
+281,staff,positive,positive,"{""sentiment"": ""positive""}",384.8034000000098,207,8
+282,kitchen food,positive,positive,"{""sentiment"": ""positive""}",351.37280000003557,217,8
+283,Sushi,positive,positive,"{""sentiment"": ""positive""}",349.54719999996087,216,8
+284,service,positive,positive,"{""sentiment"": ""positive""}",355.84769999991295,221,8
+285,waitresses,positive,positive,"{""sentiment"": ""positive""}",345.5752999999504,222,8
+286,atmosphere,positive,positive,"{""sentiment"": ""positive""}",350.2572999999529,223,8
+287,italian food,positive,positive,"{""sentiment"": ""positive""}",383.0050000000256,210,8
+288,food,positive,positive,"{""sentiment"": ""positive""}",356.7542000000685,224,8
+289,rolls,positive,positive,"{""sentiment"": ""positive""}",346.6132999999445,224,8
+290,sushi/sashimi,neutral,neutral,"{""sentiment"": ""neutral""}",348.16430000000764,227,8
+291,sashimi,negative,negative,"{""sentiment"": ""negative""}",387.7502000000277,211,8
+292,price,negative,negative,"{""sentiment"": ""negative""}",393.6781999999539,215,8
+293,hot dogs,positive,positive,"{""sentiment"": ""positive""}",367.1004999999923,248,8
+294,breakfast sandwiches,positive,positive,"{""sentiment"": ""positive""}",349.99229999993986,249,8
+295,tator tots,positive,positive,"{""sentiment"": ""positive""}",349.0206000000171,249,8
+296,English muffins,positive,positive,"{""sentiment"": ""positive""}",351.03589999994256,249,8
+297,Taylor ham,positive,positive,"{""sentiment"": ""positive""}",347.26739999996425,248,8
+298,pork product,positive,positive,"{""sentiment"": ""positive""}",349.0433999999141,248,8
+299,manager,negative,negative,"{""sentiment"": ""negative""}",359.27379999998266,233,8
+300,bartender,negative,negative,"{""sentiment"": ""negative""}",347.89469999998346,234,8
+301,drinks,neutral,negative,"{""sentiment"": ""negative""}",350.5083000000013,234,8
+302,waiting,negative,negative,"{""sentiment"": ""negative""}",347.37299999994775,233,8
+303,service,positive,positive,"{""sentiment"": ""positive""}",358.10030000004645,228,8
+304,atmosphere,positive,positive,"{""sentiment"": ""positive""}",347.50049999991006,230,8
+305,green chillis,negative,negative,"{""sentiment"": ""negative""}",356.10639999993055,221,8
+306,dish,negative,negative,"{""sentiment"": ""negative""}",350.7971000000225,219,8
+307,service,negative,negative,"{""sentiment"": ""negative""}",358.98840000004384,224,8
+308,food,negative,negative,"{""sentiment"": ""negative""}",369.56850000001396,224,8
+309,meals,neutral,negative,"{""sentiment"": ""negative""}",370.4819000000725,225,8
+310,lunch,neutral,neutral,"{""sentiment"": ""neutral""}",355.64210000006824,217,8
+311,take-out,neutral,neutral,"{""sentiment"": ""neutral""}",350.18719999993664,217,8
+312,dine-in,neutral,neutral,"{""sentiment"": ""neutral""}",350.8232000000362,217,8
+313,food,neutral,neutral,"{""sentiment"": ""neutral""}",393.32920000003924,215,8
+314,fresh juice concoctions,positive,neutral,"{""sentiment"": ""neutral""}",348.7047999999504,218,8
+315,food,positive,positive,"{""sentiment"": ""positive""}",390.2163999999857,209,8
+316,prices,positive,positive,"{""sentiment"": ""positive""}",347.97120000007453,209,8
+317,place,positive,positive,"{""sentiment"": ""positive""}",356.1771999999337,219,8
+318,soul food,positive,positive,"{""sentiment"": ""positive""}",359.91039999998975,220,8
+319,roast chicken,neutral,neutral,"{""sentiment"": ""neutral""}",388.6145999999826,209,8
+320,salad,neutral,neutral,"{""sentiment"": ""neutral""}",350.62230000005457,208,8
+321,chicken with avocado,positive,positive,"{""sentiment"": ""positive""}",351.40640000008716,217,8
+322,tuna,positive,positive,"{""sentiment"": ""positive""}",350.4527999999709,214,8
+323,meals,negative,negative,"{""sentiment"": ""negative""}",375.0460999999632,207,8
+324,chicken,negative,negative,"{""sentiment"": ""negative""}",362.5782999999956,220,8
+325,sauce,negative,negative,"{""sentiment"": ""negative""}",359.47859999998855,219,8
+326,Malted Milk Ball Gelato,positive,positive,"{""sentiment"": ""positive""}",356.9645999999693,223,8
+327,meal,negative,negative,"{""sentiment"": ""negative""}",388.8911999999891,210,8
+328,service,negative,negative,"{""sentiment"": ""negative""}",382.3415000000523,208,8
+329,bar service,negative,negative,"{""sentiment"": ""negative""}",389.9650000000747,208,8
+330,Dessert,positive,positive,"{""sentiment"": ""positive""}",385.3778999999804,209,8
+331,service,positive,positive,"{""sentiment"": ""positive""}",389.21319999997195,210,8
+332,black vinegar,neutral,neutral,"{""sentiment"": ""neutral""}",395.8267000000433,211,8
+333,shredded ginger,neutral,neutral,"{""sentiment"": ""neutral""}",353.74290000004294,213,8
+334,lighting,negative,negative,"{""sentiment"": ""negative""}",367.1904999999924,241,8
+335,food,negative,negative,"{""sentiment"": ""negative""}",351.0008000000653,240,8
+336,disco pop duo,negative,negative,"{""sentiment"": ""negative""}",348.69449999996505,243,8
+337,escargot,negative,negative,"{""sentiment"": ""negative""}",349.4595999999319,242,8
+338,place,positive,positive,"{""sentiment"": ""positive""}",388.4785999999849,213,8
+339,service,positive,positive,"{""sentiment"": ""positive""}",392.7750999999944,216,8
+340,owner,positive,positive,"{""sentiment"": ""positive""}",349.28420000005644,216,8
+341,waiters,negative,negative,"{""sentiment"": ""negative""}",389.2501999999922,216,8
+342,food,positive,positive,"{""sentiment"": ""positive""}",383.477599999992,208,8
+343,waiter,negative,negative,"{""sentiment"": ""negative""}",368.0075999999417,247,8
+344,salads,positive,neutral,"{""sentiment"": ""neutral""}",393.4464000000162,213,8
+345,vegetarian platters,positive,neutral,"{""sentiment"": ""neutral""}",347.55410000002485,215,8
+346,meal,positive,positive,"{""sentiment"": ""positive""}",391.145100000017,212,8
+347,food,neutral,neutral,"{""sentiment"": ""neutral""}",356.22620000003735,220,8
+348,service,positive,positive,"{""sentiment"": ""positive""}",390.69770000003246,204,8
+349,pizza,neutral,neutral,"{""sentiment"": ""neutral""}",353.4167999999909,217,8
+350,pizza,positive,positive,"{""sentiment"": ""positive""}",378.9390000000594,205,8
+351,service,positive,positive,"{""sentiment"": ""positive""}",384.5589000000018,205,8
+352,chicken,positive,positive,"{""sentiment"": ""positive""}",391.9171999999662,210,8
+353,food,positive,positive,"{""sentiment"": ""positive""}",390.4413000000204,212,8
+354,host (owner),positive,positive,"{""sentiment"": ""positive""}",390.60619999997925,214,8
+355,servers,positive,positive,"{""sentiment"": ""positive""}",348.43210000008185,212,8
+356,food,positive,positive,"{""sentiment"": ""positive""}",357.0057000000588,221,8
+357,atmosphere,positive,positive,"{""sentiment"": ""positive""}",351.7510000000357,223,8
+358,hostess,positive,positive,"{""sentiment"": ""positive""}",347.7857999999969,222,8
+359,food,positive,positive,"{""sentiment"": ""positive""}",392.9729999999836,210,8
+360,service,positive,positive,"{""sentiment"": ""positive""}",350.9202999999843,210,8
+361,Vietnamese Beef Noodle Soup,neutral,neutral,"{""sentiment"": ""neutral""}",396.6805000000022,215,8
+362,dining experience,negative,negative,"{""sentiment"": ""negative""}",396.0422000000108,214,8
+363,Indian food,positive,positive,"{""sentiment"": ""positive""}",397.24999999998545,214,8
+364,waiters,positive,positive,"{""sentiment"": ""positive""}",354.24939999995786,217,8
+365,interior,positive,positive,"{""sentiment"": ""positive""}",394.2231000000902,213,8
+366,service,positive,positive,"{""sentiment"": ""positive""}",347.12600000000293,212,8
+367,food,positive,positive,"{""sentiment"": ""positive""}",387.5209000000268,211,8
+368,decor,positive,positive,"{""sentiment"": ""positive""}",351.0281000000077,211,8
+369,menu,positive,positive,"{""sentiment"": ""positive""}",356.7622000000483,219,8
+370,selection,positive,positive,"{""sentiment"": ""positive""}",356.1880000000883,219,8
+371,sauce,positive,positive,"{""sentiment"": ""positive""}",397.2890999999663,214,8
+372,crust,positive,positive,"{""sentiment"": ""positive""}",353.9274000000887,215,8
+373,sushi,positive,positive,"{""sentiment"": ""positive""}",385.8083999999735,209,8
+374,selection,positive,positive,"{""sentiment"": ""positive""}",399.948899999913,214,8
+375,rolls with crab,positive,positive,"{""sentiment"": ""positive""}",349.41170000001875,216,8
+376,host,positive,positive,"{""sentiment"": ""positive""}",355.5459000000383,218,8
+377,bartender,positive,positive,"{""sentiment"": ""positive""}",349.9518999999509,219,8
+378,servers,positive,positive,"{""sentiment"": ""positive""}",351.5019000000166,218,8
+379,food,positive,positive,"{""sentiment"": ""positive""}",384.36219999994137,206,8
+380,potato spinach gnocchi,positive,positive,"{""sentiment"": ""positive""}",353.7694000000329,217,8
+381,lamb,positive,neutral,"{""sentiment"": ""neutral""}",349.6206999999458,213,8
+382,lunch,neutral,negative,"{""sentiment"": ""negative""}",361.04710000006435,228,8
+383,sandwiches,positive,positive,"{""sentiment"": ""positive""}",398.40110000000095,215,8
+384,port,positive,positive,"{""sentiment"": ""positive""}",355.68260000002283,218,8
+385,Portuguese cheese cart,positive,positive,"{""sentiment"": ""positive""}",355.94879999996465,222,8
+386,burger,neutral,neutral,"{""sentiment"": ""neutral""}",396.1280999999417,214,8
+387,blueberry pancakes,positive,positive,"{""sentiment"": ""positive""}",350.0884000000042,216,8
+388,food,positive,positive,"{""sentiment"": ""positive""}",354.482599999983,217,8
+389,bill,positive,positive,"{""sentiment"": ""positive""}",350.56909999991603,217,8
+390,toppings,positive,positive,"{""sentiment"": ""positive""}",358.126900000002,232,8
+391,crust,positive,positive,"{""sentiment"": ""positive""}",355.0440000000208,231,8
+392,service,positive,positive,"{""sentiment"": ""positive""}",397.6923999999826,211,8
+393,food,positive,positive,"{""sentiment"": ""positive""}",351.3171000000739,211,8
+394,waitstaff,positive,positive,"{""sentiment"": ""positive""}",361.52900000001864,228,8
+395,food,positive,positive,"{""sentiment"": ""positive""}",350.169699999924,227,8
+396,lobster ravioli,positive,positive,"{""sentiment"": ""positive""}",396.72649999999976,214,8
+397,meal,positive,positive,"{""sentiment"": ""positive""}",361.05220000001736,220,8
+398,Service,positive,positive,"{""sentiment"": ""positive""}",392.37439999999424,216,8
+399,price,positive,positive,"{""sentiment"": ""positive""}",365.8742000000075,216,8
+400,wait,positive,negative,"{""sentiment"": ""negative""}",355.3087999999889,216,8
+401,food,negative,negative,"{""sentiment"": ""negative""}",388.62059999996745,213,8
+402,Coffee,positive,positive,"{""sentiment"": ""positive""}",387.7792999999201,213,8
+403,Cosi sandwiches,negative,negative,"{""sentiment"": ""negative""}",349.8141999999689,214,8
+404,drink,neutral,neutral,"{""sentiment"": ""neutral""}",387.7723000000515,212,8
+405,prices,positive,positive,"{""sentiment"": ""positive""}",361.5658999999596,229,8
+406,food,positive,positive,"{""sentiment"": ""positive""}",398.682000000008,215,8
+407,waiting,negative,negative,"{""sentiment"": ""negative""}",348.6497999999756,215,8
+408,place,positive,positive,"{""sentiment"": ""positive""}",391.3208000000168,212,8
+409,ambience,positive,positive,"{""sentiment"": ""positive""}",352.1208999999317,213,8
+410,brunch,neutral,neutral,"{""sentiment"": ""neutral""}",397.3194999999805,210,8
+411,food,positive,positive,"{""sentiment"": ""positive""}",358.2802000000811,224,8
+412,crust,negative,negative,"{""sentiment"": ""negative""}",354.15179999995416,218,8
+413,food,positive,positive,"{""sentiment"": ""positive""}",393.30690000008417,215,8
+414,cake,negative,negative,"{""sentiment"": ""negative""}",396.61050000006526,212,8
+415,dinner,neutral,positive,"{""sentiment"": ""positive""}",355.12180000000626,217,8
+416,SERVICE,positive,positive,"{""sentiment"": ""positive""}",355.9520999999677,222,8
+417,Delmonico steak,negative,negative,"{""sentiment"": ""negative""}",357.22659999998996,223,8
+418,menu,negative,negative,"{""sentiment"": ""negative""}",359.86030000003666,225,8
+419,rice,neutral,neutral,"{""sentiment"": ""neutral""}",395.7511999999497,217,8
+420,beans,neutral,neutral,"{""sentiment"": ""neutral""}",350.20380000003115,217,8
+421,chicken,neutral,neutral,"{""sentiment"": ""neutral""}",352.1421000000373,218,8
+422,service,positive,positive,"{""sentiment"": ""positive""}",389.65220000000045,213,8
+423,value,positive,positive,"{""sentiment"": ""positive""}",347.5270999999793,213,8
+424,food,positive,positive,"{""sentiment"": ""positive""}",387.5854000000345,209,8
+425,value,positive,positive,"{""sentiment"": ""positive""}",349.1129000000228,209,8
+426,garlic soup,positive,positive,"{""sentiment"": ""positive""}",384.4785999999658,208,8
+427,falafel,positive,positive,"{""sentiment"": ""positive""}",360.1466000000073,230,8
+428,tabouleh,positive,positive,"{""sentiment"": ""positive""}",358.10109999999895,230,8
+429,humus,positive,positive,"{""sentiment"": ""positive""}",352.51129999994646,229,8
+430,Mediterranean delights,positive,positive,"{""sentiment"": ""positive""}",352.12699999999586,231,8
+431,pizza's,positive,positive,"{""sentiment"": ""positive""}",395.78149999999823,214,8
+432,Staff,positive,positive,"{""sentiment"": ""positive""}",390.33519999998134,212,8
+433,Chef,positive,positive,"{""sentiment"": ""positive""}",391.8307000000141,210,8
+434,sushi,positive,positive,"{""sentiment"": ""positive""}",385.99229999999807,208,8
+435,priced,positive,positive,"{""sentiment"": ""positive""}",357.3698999999806,209,8
+436,Seafood Paella for two,positive,neutral,"{""sentiment"": ""neutral""}",396.9558999999663,215,8
+437,apetizers,positive,positive,"{""sentiment"": ""positive""}",354.84040000005734,217,8
+438,Sangria,positive,positive,"{""sentiment"": ""positive""}",342.16409999999087,216,8
+439,service,positive,positive,"{""sentiment"": ""positive""}",357.84350000005816,225,8
+440,server,positive,positive,"{""sentiment"": ""positive""}",353.3712999999352,225,8
+441,staff,positive,positive,"{""sentiment"": ""positive""}",356.88229999993837,218,8
+442,food,positive,positive,"{""sentiment"": ""positive""}",348.036900000011,218,8
+443,Service,positive,positive,"{""sentiment"": ""positive""}",383.505600000035,206,8
+444,Host,negative,negative,"{""sentiment"": ""negative""}",385.6591999999637,208,8
+445,Hostess,negative,negative,"{""sentiment"": ""negative""}",353.4071999999924,209,8
+446,wait staff,positive,positive,"{""sentiment"": ""positive""}",358.37179999998625,226,8
+447,meal,positive,positive,"{""sentiment"": ""positive""}",351.02729999994153,225,8
+448,salmon dishes,positive,positive,"{""sentiment"": ""positive""}",385.9604000000445,210,8
+449,foie gras,positive,positive,"{""sentiment"": ""positive""}",390.1776999999811,212,8
+450,menu,neutral,neutral,"{""sentiment"": ""neutral""}",393.65829999997004,214,8
+451,mac cheese,positive,positive,"{""sentiment"": ""positive""}",393.91089999992346,209,8
+452,brunch menu,positive,positive,"{""sentiment"": ""positive""}",391.32009999991624,210,8
+453,jazz singer,positive,positive,"{""sentiment"": ""positive""}",361.5121000000272,226,8
+454,service,positive,positive,"{""sentiment"": ""positive""}",402.1541999999272,216,8
+455,food,neutral,neutral,"{""sentiment"": ""neutral""}",396.11679999995886,216,8
+456,breakfast food,neutral,neutral,"{""sentiment"": ""neutral""}",353.30499999997755,218,8
+457,soups,neutral,neutral,"{""sentiment"": ""neutral""}",351.24419999999645,217,8
+458,salads,neutral,neutral,"{""sentiment"": ""neutral""}",350.6693000000496,217,8
+459,sandwiches,neutral,neutral,"{""sentiment"": ""neutral""}",352.9001000000562,218,8
+460,FOOD,negative,negative,"{""sentiment"": ""negative""}",391.37909999999465,212,8
+461,BANANA PUDDING,negative,negative,"{""sentiment"": ""negative""}",376.4995999999883,251,8
+462,CRABCAKES,negative,negative,"{""sentiment"": ""negative""}",350.63239999999496,251,8
+463,MAC AND CHEESE,negative,negative,"{""sentiment"": ""negative""}",354.7828999999183,251,8
+464,staff,negative,negative,"{""sentiment"": ""negative""}",392.8392000000258,212,8
+465,prices,negative,negative,"{""sentiment"": ""negative""}",352.53510000006827,212,8
+466,service,positive,positive,"{""sentiment"": ""positive""}",388.4971999999607,206,8
+467,food,positive,positive,"{""sentiment"": ""positive""}",400.8403000000271,212,8
+468,downstairs bar scene,positive,positive,"{""sentiment"": ""positive""}",397.32679999997345,212,8
+469,food,positive,positive,"{""sentiment"": ""positive""}",368.1705999999849,235,8
+470,price,negative,negative,"{""sentiment"": ""negative""}",354.8786000000064,235,8
+471,drinks,neutral,negative,"{""sentiment"": ""negative""}",353.49220000000514,236,8
+472,casual lunches,neutral,positive,"{""sentiment"": ""positive""}",359.0944000000036,222,8
+473,Tequila,positive,positive,"{""sentiment"": ""positive""}",399.01320000001306,213,8
+474,beer selection,positive,positive,"{""sentiment"": ""positive""}",386.4981000000398,213,8
+475,beers,neutral,positive,"{""sentiment"": ""positive""}",350.8825999999772,213,8
+476,delivary,negative,negative,"{""sentiment"": ""negative""}",395.93029999991813,216,8
+477,food,positive,positive,"{""sentiment"": ""positive""}",360.5537999999342,222,8
+478,owner,positive,positive,"{""sentiment"": ""positive""}",350.60150000003887,222,8
+479,homemade pastas,positive,positive,"{""sentiment"": ""positive""}",360.8032000000776,221,8
+480,gnocchi,positive,positive,"{""sentiment"": ""positive""}",349.6062000000393,220,8
+481,vegetable risotto,negative,negative,"{""sentiment"": ""negative""}",354.950199999962,218,8
+482,flavor,negative,negative,"{""sentiment"": ""negative""}",355.95710000006875,216,8
+483,price,positive,positive,"{""sentiment"": ""positive""}",390.22829999998976,209,8
+484,service,negative,negative,"{""sentiment"": ""negative""}",390.5628999999635,212,8
+485,dinner,positive,positive,"{""sentiment"": ""positive""}",357.55489999996826,218,8
+486,prices,negative,negative,"{""sentiment"": ""negative""}",349.47589999990214,218,8
+487,sandwiches,positive,positive,"{""sentiment"": ""positive""}",361.88479999998435,228,8
+488,soup,positive,positive,"{""sentiment"": ""positive""}",355.89279999999235,226,8
+489,pizza,positive,positive,"{""sentiment"": ""positive""}",349.67219999998633,226,8
+490,homemade sorbets,positive,positive,"{""sentiment"": ""positive""}",352.962400000024,230,8
+491,homemade Guacamole,positive,positive,"{""sentiment"": ""positive""}",359.3795000000455,222,8
+492,entree,positive,positive,"{""sentiment"": ""positive""}",346.35389999994004,219,8
+493,deserts,positive,positive,"{""sentiment"": ""positive""}",354.97129999998833,219,8
+494,sushi,positive,positive,"{""sentiment"": ""positive""}",391.848399999958,207,8
+495,priced,positive,positive,"{""sentiment"": ""positive""}",350.89110000001256,208,8
+496,deserts,positive,positive,"{""sentiment"": ""positive""}",399.7265000000425,213,8
+497,grill,positive,positive,"{""sentiment"": ""positive""}",399.6284999999489,217,8
+498,Churrasco,positive,positive,"{""sentiment"": ""positive""}",351.6784999999345,218,8
+499,Ribs,positive,positive,"{""sentiment"": ""positive""}",359.4160999999758,216,8
+500,traditional Italian items,positive,positive,"{""sentiment"": ""positive""}",407.5869999999213,216,8
+501,setting,positive,positive,"{""sentiment"": ""positive""}",352.19710000001214,214,8
+502,served,positive,positive,"{""sentiment"": ""positive""}",348.9051000000245,214,8
+503,iced blended mocha,positive,positive,"{""sentiment"": ""positive""}",361.5379000000303,226,8
+504,hot white mocha,positive,positive,"{""sentiment"": ""positive""}",362.02860000003056,226,8
+505,late lunch,neutral,neutral,"{""sentiment"": ""neutral""}",393.03239999992456,211,8
+506,parmesan cheese,neutral,negative,"{""sentiment"": ""negative""}",397.9494999999815,217,8
+507,waitress,negative,negative,"{""sentiment"": ""negative""}",393.25450000001183,222,8
+508,food,neutral,negative,"{""sentiment"": ""negative""}",363.1103999999823,221,8
+509,wine,neutral,negative,"{""sentiment"": ""negative""}",351.8033000000287,221,8
+510,service,negative,negative,"{""sentiment"": ""negative""}",360.2640000000292,230,8
+511,portions,negative,negative,"{""sentiment"": ""negative""}",352.8112000000192,231,8
+512,salad,neutral,negative,"{""sentiment"": ""negative""}",359.77790000004006,228,8
+513,salad dressing,neutral,negative,"{""sentiment"": ""negative""}",354.8727999999528,229,8
+514,quesedilla,neutral,negative,"{""sentiment"": ""negative""}",349.4179000000486,229,8
+515,pizza's,positive,positive,"{""sentiment"": ""positive""}",360.10620000001836,231,8
+516,service,negative,negative,"{""sentiment"": ""negative""}",364.3098000000009,235,8
+517,food,negative,negative,"{""sentiment"": ""negative""}",353.9059999999381,235,8
+518,cost,negative,negative,"{""sentiment"": ""negative""}",355.46390000001793,235,8
+519,food,positive,positive,"{""sentiment"": ""positive""}",361.72750000002907,228,8
+520,staff,positive,positive,"{""sentiment"": ""positive""}",356.65559999995367,228,8
+521,bar,neutral,neutral,"{""sentiment"": ""neutral""}",400.02370000001974,214,8
+522,Chef,positive,positive,"{""sentiment"": ""positive""}",362.1167000000014,224,8
+523,Indian food,positive,positive,"{""sentiment"": ""positive""}",357.47989999993024,220,8
+524,service,positive,neutral,"{""sentiment"": ""neutral""}",354.2389000000412,219,8
+525,Odessa stew,positive,positive,"{""sentiment"": ""positive""}",369.0915000000814,243,8
+526,Rabbit stew,positive,positive,"{""sentiment"": ""positive""}",353.4607000000278,242,8
+527,salads,positive,positive,"{""sentiment"": ""positive""}",356.7143999999871,242,8
+528,kompot,positive,positive,"{""sentiment"": ""positive""}",354.3346000000156,242,8
+529,lunch,positive,positive,"{""sentiment"": ""positive""}",359.59749999994983,224,8
+530,waitress,neutral,negative,"{""sentiment"": ""negative""}",392.91260000004513,211,8
+531,quality of the meat,negative,negative,"{""sentiment"": ""negative""}",404.6448000000282,216,8
+532,smoothies,positive,neutral,"{""sentiment"": ""neutral""}",396.5354000000616,210,8
+533,fresh juices,positive,neutral,"{""sentiment"": ""neutral""}",351.23459999999795,210,8
+534,black roasted codfish,positive,positive,"{""sentiment"": ""positive""}",358.82379999998193,219,8
+535,dish,positive,positive,"{""sentiment"": ""positive""}",354.68219999995654,216,8
+536,waiter,negative,negative,"{""sentiment"": ""negative""}",369.9452000000747,238,8
+537,menu,neutral,neutral,"{""sentiment"": ""neutral""}",354.80360000008204,237,8
+538,manager,neutral,neutral,"{""sentiment"": ""neutral""}",351.5493999999535,237,8
+539,taste,negative,negative,"{""sentiment"": ""negative""}",358.9979000000767,225,8
+540,chicken,negative,negative,"{""sentiment"": ""negative""}",355.21140000003015,226,8
+541,reservation,neutral,neutral,"{""sentiment"": ""neutral""}",397.21369999995204,212,8
+542,brunch,neutral,positive,"{""sentiment"": ""positive""}",396.4068999999881,213,8
+543,sushi,neutral,neutral,"{""sentiment"": ""neutral""}",393.9424999999801,210,8
+544,food,positive,positive,"{""sentiment"": ""positive""}",395.5968000000212,210,8
+545,served,positive,positive,"{""sentiment"": ""positive""}",357.1600999999873,210,8
+546,erbazzone emiliana,positive,positive,"{""sentiment"": ""positive""}",365.14770000007957,234,8
+547,mostarda on the cheese plate,positive,positive,"{""sentiment"": ""positive""}",350.9922999999162,234,8
+548,dishes,positive,positive,"{""sentiment"": ""positive""}",352.12190000004284,229,8
+549,food,positive,positive,"{""sentiment"": ""positive""}",394.1167000000405,211,8
+550,bar,positive,positive,"{""sentiment"": ""positive""}",353.5524000000123,211,8
+551,vibe,positive,positive,"{""sentiment"": ""positive""}",356.608499999993,211,8
+552,candlelight,neutral,neutral,"{""sentiment"": ""neutral""}",385.1479999999583,208,8
+553,music,neutral,neutral,"{""sentiment"": ""neutral""}",352.3099999999886,207,8
+554,food,positive,neutral,"{""sentiment"": ""neutral""}",390.79160000005686,209,8
+555,dining experience,positive,positive,"{""sentiment"": ""positive""}",399.04070000000047,217,8
+556,food,positive,positive,"{""sentiment"": ""positive""}",359.3829999999798,223,8
+557,service,positive,positive,"{""sentiment"": ""positive""}",353.2040000000052,223,8
+558,place,positive,positive,"{""sentiment"": ""positive""}",392.24079999996775,210,8
+559,food,positive,positive,"{""sentiment"": ""positive""}",356.9169000001011,210,8
+560,Chicken Teriyaki,neutral,neutral,"{""sentiment"": ""neutral""}",355.9588000000531,217,8
+561,Garlic Shrimp,neutral,neutral,"{""sentiment"": ""neutral""}",355.05720000003294,217,8
+562,Japanese food,negative,negative,"{""sentiment"": ""negative""}",394.9482000000444,212,8
+563,staff members,positive,positive,"{""sentiment"": ""positive""}",357.49220000002424,218,8
+564,drink,neutral,positive,"{""sentiment"": ""positive""}",413.3215999999038,217,8
+565,atmosphere,positive,positive,"{""sentiment"": ""positive""}",396.67369999995117,210,8
+566,Sashimi portion,positive,neutral,"{""sentiment"": ""neutral""}",360.0658000000294,230,8
+567,artifical lobster meat,negative,negative,"{""sentiment"": ""negative""}",358.94739999992,232,8
+568,wheat crusted pizza,positive,positive,"{""sentiment"": ""positive""}",359.02309999994486,217,8
+569,ingredients,positive,positive,"{""sentiment"": ""positive""}",353.10950000007324,214,8
+570,dinner,positive,positive,"{""sentiment"": ""positive""}",362.5695000000633,227,8
+571,food,positive,positive,"{""sentiment"": ""positive""}",359.0459000000692,227,8
+572,service,positive,positive,"{""sentiment"": ""positive""}",350.2257999999756,227,8
+573,cake,positive,positive,"{""sentiment"": ""positive""}",352.88070000001426,218,8
+574,staff,negative,negative,"{""sentiment"": ""negative""}",355.280300000004,221,8
+575,slices,negative,negative,"{""sentiment"": ""negative""}",351.87379999990753,221,8
+576,wait staff,negative,negative,"{""sentiment"": ""negative""}",360.8128000000761,229,8
+577,wine list,positive,positive,"{""sentiment"": ""positive""}",395.97699999990255,214,8
+578,priced,positive,positive,"{""sentiment"": ""positive""}",351.2235000000601,214,8
+579,salads,positive,positive,"{""sentiment"": ""positive""}",354.34700000007524,217,8
+580,bathroom,positive,positive,"{""sentiment"": ""positive""}",398.0561000000762,211,8
+581,delivers,positive,positive,"{""sentiment"": ""positive""}",359.39110000003893,222,8
+582,food,positive,positive,"{""sentiment"": ""positive""}",353.4356000000116,221,8
+583,prices,positive,neutral,"{""sentiment"": ""neutral""}",354.5799999999417,221,8
+584,service,positive,positive,"{""sentiment"": ""positive""}",350.633900000048,221,8
+585,repast,positive,positive,"{""sentiment"": ""positive""}",356.5554000000475,222,8
+586,WAITERS,neutral,negative,"{""sentiment"": ""negative""}",359.0682999999899,225,8
+587,ITALIAN MEAL,neutral,positive,"{""sentiment"": ""positive""}",357.706300000018,225,8
+588,pizza,positive,positive,"{""sentiment"": ""positive""}",364.0728999999965,238,8
+589,steak,neutral,neutral,"{""sentiment"": ""neutral""}",390.6979000000774,209,8
+590,organic grilled burgers,positive,positive,"{""sentiment"": ""positive""}",368.22400000005473,247,8
+591,dish,positive,positive,"{""sentiment"": ""positive""}",354.3814999999313,245,8
+592,Jerusalem market-style falafel wraps,positive,positive,"{""sentiment"": ""positive""}",390.0837999999567,252,8
+593,"Mediterranean salads--layered with beets, goat cheese and walnuts",positive,positive,"{""sentiment"": ""positive""}",401.77760000005946,260,8
+594,dining experience,negative,negative,"{""sentiment"": ""negative""}",358.94250000001193,225,8
+595,waiter,neutral,negative,"{""sentiment"": ""negative""}",355.9701000000359,225,8
+596,texture,positive,positive,"{""sentiment"": ""positive""}",357.31959999998253,219,8
+597,hint of cocoa,positive,positive,"{""sentiment"": ""positive""}",356.80679999995846,221,8
+598,round corner table next to the large window,positive,neutral,"{""sentiment"": ""neutral""}",359.5834999999852,219,8
+599,flavor,positive,positive,"{""sentiment"": ""positive""}",400.1360999999406,215,8
+600,twist on pizza,positive,positive,"{""sentiment"": ""positive""}",354.8616000000493,217,8
+601,AC,negative,negative,"{""sentiment"": ""negative""}",359.65060000000904,231,8
+602,service,negative,negative,"{""sentiment"": ""negative""}",367.07000000001244,236,8
+603,sales people,negative,negative,"{""sentiment"": ""negative""}",351.7708000000539,237,8
+604,location,negative,negative,"{""sentiment"": ""negative""}",357.58580000003803,224,8
+605,display and quality of the food,negative,negative,"{""sentiment"": ""negative""}",358.0736999999772,222,8
+606,food,positive,positive,"{""sentiment"": ""positive""}",395.4901999999265,213,8
+607,food,positive,positive,"{""sentiment"": ""positive""}",364.22060000006695,226,8
+608,food,positive,positive,"{""sentiment"": ""positive""}",397.390400000063,211,8
+609,Italian cuisine,positive,positive,"{""sentiment"": ""positive""}",349.2387000000008,212,8
+610,atmoshere,positive,positive,"{""sentiment"": ""positive""}",359.3147000000272,220,8
+611,booth by the windows,neutral,positive,"{""sentiment"": ""positive""}",369.01269999998476,245,8
+612,place,positive,positive,"{""sentiment"": ""positive""}",346.06590000009874,241,8
+613,food,positive,positive,"{""sentiment"": ""positive""}",356.50009999994836,241,8
+614,service,positive,positive,"{""sentiment"": ""positive""}",353.702300000009,241,8
+615,coffee,positive,positive,"{""sentiment"": ""positive""}",405.0296000000344,216,8
+616,wine list,negative,negative,"{""sentiment"": ""negative""}",400.5422999999837,213,8
+617,vintages,negative,negative,"{""sentiment"": ""negative""}",354.1989000000285,213,8
+618,priced,negative,negative,"{""sentiment"": ""negative""}",361.16089999995893,226,8
+619,food,negative,negative,"{""sentiment"": ""negative""}",353.2202999999754,225,8
+620,scenery,negative,negative,"{""sentiment"": ""negative""}",357.3923999999806,226,8
+621,new hamburger with special sauce,positive,positive,"{""sentiment"": ""positive""}",360.5803000000378,219,8
+622,big mac,negative,negative,"{""sentiment"": ""negative""}",355.9430999999904,216,8
+623,pasta,positive,positive,"{""sentiment"": ""positive""}",400.90989999998783,215,8
+624,sauce,neutral,neutral,"{""sentiment"": ""neutral""}",353.70190000003277,215,8
+625,portions,positive,positive,"{""sentiment"": ""positive""}",361.6800999999441,216,8
+626,prices,negative,neutral,"{""sentiment"": ""neutral""}",359.2965999999933,222,8
+627,food,negative,negative,"{""sentiment"": ""negative""}",353.6214000000655,222,8
+628,Service,negative,negative,"{""sentiment"": ""negative""}",398.7679000000526,214,8
+629,staff,negative,negative,"{""sentiment"": ""negative""}",349.57039999994777,214,8
+630,owners,positive,positive,"{""sentiment"": ""positive""}",394.8730000000751,213,8
+631,owner,positive,positive,"{""sentiment"": ""positive""}",389.422399999944,209,8
+632,place,positive,positive,"{""sentiment"": ""positive""}",395.9525999999869,207,8
+633,meal,positive,positive,"{""sentiment"": ""positive""}",394.17629999991277,206,8
+634,place,positive,positive,"{""sentiment"": ""positive""}",359.30660000008174,218,8
+635,service,positive,positive,"{""sentiment"": ""positive""}",399.07419999997273,214,8
+636,staff,positive,positive,"{""sentiment"": ""positive""}",381.438899999921,218,8
+637,food,positive,positive,"{""sentiment"": ""positive""}",391.0154000000148,218,8
+638,fortune cookies,negative,negative,"{""sentiment"": ""negative""}",371.1772999999994,226,8
+639,cookie,negative,negative,"{""sentiment"": ""negative""}",364.62749999998323,225,8
+640,sushi lunch,positive,positive,"{""sentiment"": ""positive""}",390.7967000000099,208,8
+641,mojito,positive,neutral,"{""sentiment"": ""neutral""}",393.00070000001597,214,8
+642,back patio,positive,neutral,"{""sentiment"": ""neutral""}",348.3414999999468,213,8
+643,service,negative,negative,"{""sentiment"": ""negative""}",370.9790000000339,221,8
+644,meal,positive,positive,"{""sentiment"": ""positive""}",356.404399999974,222,8
+645,braised lamb shank with mashed potatoes,positive,positive,"{""sentiment"": ""positive""}",358.67769999993016,229,8
+646,waitress,negative,neutral,"{""sentiment"": ""neutral""}",358.03499999997257,218,8
+647,soy sauce,neutral,neutral,"{""sentiment"": ""neutral""}",356.01150000002235,219,8
+648,lunch,neutral,neutral,"{""sentiment"": ""neutral""}",353.22069999995165,218,8
+649,bar,neutral,neutral,"{""sentiment"": ""neutral""}",357.95250000001033,219,8
+650,bartender,negative,negative,"{""sentiment"": ""negative""}",359.6591000000444,220,8
+651,fried pork dumplings,positive,positive,"{""sentiment"": ""positive""}",359.5551999999316,224,8
+652,orange chicken/beef,positive,positive,"{""sentiment"": ""positive""}",353.12759999999344,224,8
+653,fried rice,positive,positive,"{""sentiment"": ""positive""}",357.7235999999857,222,8
+654,menu,positive,positive,"{""sentiment"": ""positive""}",401.4075000000048,215,8
+655,french fries -- with the kalmata dip,positive,positive,"{""sentiment"": ""positive""}",359.05000000002474,220,8
+656,wait,negative,negative,"{""sentiment"": ""negative""}",368.4171999999535,243,8
+657,manager,negative,negative,"{""sentiment"": ""negative""}",356.86279999993076,243,8
+658,bartender,neutral,negative,"{""sentiment"": ""negative""}",354.68070000001717,244,8
+659,drinks,neutral,negative,"{""sentiment"": ""negative""}",357.09140000005846,244,8
+660,boutique selection of wines,neutral,positive,"{""sentiment"": ""positive""}",355.06520000001274,217,8
+661,assortment of wraps,positive,positive,"{""sentiment"": ""positive""}",357.14309999991656,223,8
+662,traditional Mediterranean fare,neutral,neutral,"{""sentiment"": ""neutral""}",355.3810999999314,221,8
+663,Fresh veggies,positive,positive,"{""sentiment"": ""positive""}",380.46829999996135,257,8
+664,middle eastern spreads,positive,positive,"{""sentiment"": ""positive""}",358.95060000007106,258,8
+665,cheese,positive,positive,"{""sentiment"": ""positive""}",391.1895999999615,257,8
+666,falafel,positive,positive,"{""sentiment"": ""positive""}",373.36069999992105,258,8
+667,soup,positive,positive,"{""sentiment"": ""positive""}",365.7106999999087,256,8
+668,fish,positive,positive,"{""sentiment"": ""positive""}",361.8708000000197,256,8
+669,rice,positive,positive,"{""sentiment"": ""positive""}",362.2628000000532,256,8
+670,root vegetables,positive,positive,"{""sentiment"": ""positive""}",358.59260000006543,257,8
+671,rice medley,positive,positive,"{""sentiment"": ""positive""}",362.2311000000309,258,8
+672,spinach thing,positive,positive,"{""sentiment"": ""positive""}",368.31119999999373,258,8
+673,lamb kebabs,positive,positive,"{""sentiment"": ""positive""}",371.0084999999026,260,8
+674,cheese baclava,positive,positive,"{""sentiment"": ""positive""}",367.14680000000044,260,8
+675,fooood,positive,positive,"{""sentiment"": ""positive""}",379.47029999997994,257,8
+676,Saketini,positive,negative,"{""sentiment"": ""negative""}",470.91519999992215,218,8
+677,bar menu,negative,negative,"{""sentiment"": ""negative""}",462.3827000000347,218,8
+678,look,negative,positive,"{""sentiment"": ""positive""}",441.7051000000356,231,8
+679,martinis,positive,positive,"{""sentiment"": ""positive""}",390.4916000000185,220,8
+680,chairs,neutral,negative,"{""sentiment"": ""negative""}",431.91079999996873,228,8
+681,table,neutral,negative,"{""sentiment"": ""negative""}",500.60849999999846,227,8
+682,happy hour,positive,positive,"{""sentiment"": ""positive""}",400.9929999999713,218,8
+683,service,positive,negative,"{""sentiment"": ""negative""}",442.8797000000486,217,8
+684,atmosphere,positive,negative,"{""sentiment"": ""negative""}",424.6597000000065,219,8
+685,waiter,negative,negative,"{""sentiment"": ""negative""}",385.540600000013,226,8
+686,kitchen,neutral,negative,"{""sentiment"": ""negative""}",363.298699999973,225,8
+687,waiting,negative,negative,"{""sentiment"": ""negative""}",386.8671000000177,225,8
+688,quaility,positive,positive,"{""sentiment"": ""positive""}",415.2741999999989,232,8
+689,atmosphere,positive,positive,"{""sentiment"": ""positive""}",386.27659999997377,232,8
+690,space,negative,negative,"{""sentiment"": ""negative""}",412.7978000000212,226,8
+691,prices,positive,positive,"{""sentiment"": ""positive""}",399.7265000000425,226,8
+692,treats,positive,positive,"{""sentiment"": ""positive""}",430.62480000003234,227,8
+693,menu,neutral,neutral,"{""sentiment"": ""neutral""}",431.6220999999132,212,8
+694,seats,positive,positive,"{""sentiment"": ""positive""}",368.34970000006706,224,8
+695,value,positive,positive,"{""sentiment"": ""positive""}",369.62389999996503,221,8
+696,food,positive,positive,"{""sentiment"": ""positive""}",385.66419999995105,238,8
+697,attitude,positive,positive,"{""sentiment"": ""positive""}",376.15469999991547,239,8
+698,glass of wine,neutral,negative,"{""sentiment"": ""negative""}",368.0965000000924,218,8
+699,flavors,neutral,negative,"{""sentiment"": ""negative""}",411.5576000000374,212,8
+700,place,positive,positive,"{""sentiment"": ""positive""}",366.90869999995357,222,8
+701,service,positive,positive,"{""sentiment"": ""positive""}",363.6017000000038,222,8
+702,Food,positive,positive,"{""sentiment"": ""positive""}",403.46009999996113,210,8
+703,price,positive,positive,"{""sentiment"": ""positive""}",358.75690000000304,210,8
+704,burrito,positive,positive,"{""sentiment"": ""positive""}",360.3755999999976,222,8
+705,tacos,positive,positive,"{""sentiment"": ""positive""}",358.1322,221,8
+706,margarita,neutral,neutral,"{""sentiment"": ""neutral""}",355.3792999999814,222,8
+707,dessert,neutral,positive,"{""sentiment"": ""positive""}",353.90559999996185,222,8
+708,space,neutral,neutral,"{""sentiment"": ""neutral""}",389.67120000006616,206,8
+709,reservations,neutral,negative,"{""sentiment"": ""negative""}",361.4365999999336,220,8
+710,food,negative,negative,"{""sentiment"": ""negative""}",366.6034000000309,244,8
+711,interior,negative,negative,"{""sentiment"": ""negative""}",373.3621999999741,245,8
+712,owners,negative,negative,"{""sentiment"": ""negative""}",365.41719999991074,244,8
+713,dining,neutral,negative,"{""sentiment"": ""negative""}",355.3085999999439,244,8
+714,service,positive,positive,"{""sentiment"": ""positive""}",405.57079999996404,217,8
+715,food,positive,positive,"{""sentiment"": ""positive""}",356.42589999997654,217,8
+716,value,positive,positive,"{""sentiment"": ""positive""}",351.8735000000106,217,8
+717,wait,positive,negative,"{""sentiment"": ""negative""}",361.00659999999607,217,8
+718,Egg McMuffin sandwich,neutral,neutral,"{""sentiment"": ""neutral""}",361.25409999999647,221,8
+719,hot cakes,neutral,neutral,"{""sentiment"": ""neutral""}",354.9024000000145,218,8
+720,breakfast,neutral,neutral,"{""sentiment"": ""neutral""}",351.2173999999959,218,8
+721,service,neutral,neutral,"{""sentiment"": ""neutral""}",364.69320000003336,222,8
+722,food,negative,negative,"{""sentiment"": ""negative""}",354.9039999999195,222,8
+723,music,positive,positive,"{""sentiment"": ""positive""}",356.924499999991,217,8
+724,bartender,positive,positive,"{""sentiment"": ""positive""}",356.4113999999563,218,8
+725,drinks,positive,positive,"{""sentiment"": ""positive""}",355.7372000000214,218,8
+726,rice dishes,positive,positive,"{""sentiment"": ""positive""}",364.51160000001437,229,8
+727,noodle dishes,positive,positive,"{""sentiment"": ""positive""}",363.0239999999958,229,8
+728,ice drink,positive,positive,"{""sentiment"": ""positive""}",355.65970000004654,229,8
+729,Cuisine,negative,negative,"{""sentiment"": ""negative""}",388.8458000000128,213,8
+730,bill,negative,negative,"{""sentiment"": ""negative""}",360.7021000000259,213,8
+731,asian fusion,neutral,negative,"{""sentiment"": ""negative""}",354.22349999998914,215,8
+732,billed,negative,negative,"{""sentiment"": ""negative""}",357.0041000000401,213,8
+733,dishes,positive,positive,"{""sentiment"": ""positive""}",368.2268999999678,238,8
+734,king crab salad with passion fruit vinaigrette,positive,positive,"{""sentiment"": ""positive""}",398.55210000007446,247,8
+735,fettuccine with grilled seafood in a rosemary-orange sauce,positive,positive,"{""sentiment"": ""positive""}",420.5827999999201,249,8
+736,bistro menu,neutral,negative,"{""sentiment"": ""negative""}",383.7015000000292,239,8
+737,Dishes,positive,positive,"{""sentiment"": ""positive""}",376.23819999998886,248,8
+738,"""Roy's Classics""",positive,positive,"{""sentiment"": ""positive""}",355.3795000000264,250,8
+739,menu,neutral,positive,"{""sentiment"": ""positive""}",357.53409999995256,248,8
+740,recipes,positive,positive,"{""sentiment"": ""positive""}",356.8275000000085,248,8
+741,macadamia-crusted mahi mahi,positive,positive,"{""sentiment"": ""positive""}",402.29090000002543,256,8
+742,sweet honey-mustard beef short ribs,positive,positive,"{""sentiment"": ""positive""}",400.45499999996537,255,8
+743,cold sesame noodles,positive,positive,"{""sentiment"": ""positive""}",361.6058999999723,223,8
+744,food,negative,negative,"{""sentiment"": ""negative""}",364.4980999999916,233,8
+745,meal,negative,negative,"{""sentiment"": ""negative""}",354.2745999999397,233,8
+746,served,neutral,negative,"{""sentiment"": ""negative""}",355.835299999967,233,8
+747,argentine chorizo appetizer,negative,negative,"{""sentiment"": ""negative""}",373.22149999999965,244,8
+748,fennel flavored Italian sausage,negative,negative,"{""sentiment"": ""negative""}",365.4305000000022,243,8
+749,dinner,positive,positive,"{""sentiment"": ""positive""}",365.34180000001015,222,8
+750,delivery,positive,positive,"{""sentiment"": ""positive""}",392.35729999995783,213,8
+751,value,positive,positive,"{""sentiment"": ""positive""}",354.24620000003415,213,8
+752,sandwiches,positive,positive,"{""sentiment"": ""positive""}",361.97519999996075,219,8
+753,soy mayonaise,positive,positive,"{""sentiment"": ""positive""}",357.9155999999557,221,8
+754,hostess,negative,negative,"{""sentiment"": ""negative""}",359.94879999998375,222,8
+755,table,neutral,negative,"{""sentiment"": ""negative""}",354.2917000000898,221,8
+756,dinner,positive,positive,"{""sentiment"": ""positive""}",359.4001000000162,218,8
+757,food,positive,positive,"{""sentiment"": ""positive""}",372.8436999999758,237,8
+758,staff,positive,positive,"{""sentiment"": ""positive""}",354.45310000000063,237,8
+759,food,positive,positive,"{""sentiment"": ""positive""}",369.3587000000207,237,8
+760,wine,positive,positive,"{""sentiment"": ""positive""}",387.8290999999763,237,8
+761,music,positive,positive,"{""sentiment"": ""positive""}",370.37550000002284,227,8
+762,tapas,positive,positive,"{""sentiment"": ""positive""}",355.906799999957,228,8
+763,selection of wines (primarily Spanish),positive,positive,"{""sentiment"": ""positive""}",359.30629999995745,233,8
+764,clientele,positive,positive,"{""sentiment"": ""positive""}",357.75000000001,228,8
+765,food,positive,positive,"{""sentiment"": ""positive""}",363.99249999999483,220,8
+766,dumplings,positive,positive,"{""sentiment"": ""positive""}",356.8444999999656,221,8
+767,cold sesame noodles,positive,positive,"{""sentiment"": ""positive""}",357.2659000000158,222,8
+768,chicken,positive,positive,"{""sentiment"": ""positive""}",356.2178000000813,221,8
+769,shrimp dishs,positive,positive,"{""sentiment"": ""positive""}",352.67929999997705,223,8
+770,food,positive,positive,"{""sentiment"": ""positive""}",399.29080000001704,213,8
+771,food,positive,positive,"{""sentiment"": ""positive""}",307.25390000009156,213,8
+772,entrees,neutral,negative,"{""sentiment"": ""negative""}",398.1547999999293,215,8
+773,Waiting,negative,negative,"{""sentiment"": ""negative""}",353.180400000042,214,8
+774,place,positive,positive,"{""sentiment"": ""positive""}",394.92870000003677,213,8
+775,duck confitte,positive,positive,"{""sentiment"": ""positive""}",363.0726000000095,222,8
+776,wine list,positive,positive,"{""sentiment"": ""positive""}",360.7954999999947,220,8
+777,tapas,positive,positive,"{""sentiment"": ""positive""}",355.97840000002634,220,8
+778,atmosphere,positive,positive,"{""sentiment"": ""positive""}",360.0271000000248,221,8
+779,price,positive,positive,"{""sentiment"": ""positive""}",399.2051000000174,210,8
+780,food,positive,positive,"{""sentiment"": ""positive""}",351.7120999999861,210,8
+781,food,positive,positive,"{""sentiment"": ""positive""}",364.42460000000665,227,8
+782,service,positive,positive,"{""sentiment"": ""positive""}",355.6704999999738,227,8
+783,prices,positive,positive,"{""sentiment"": ""positive""}",352.3996999999781,227,8
+784,food,positive,positive,"{""sentiment"": ""positive""}",396.2218000000348,214,8
+785,meal,positive,positive,"{""sentiment"": ""positive""}",400.88619999994535,213,8
+786,food,positive,positive,"{""sentiment"": ""positive""}",401.5398000000232,214,8
+787,service,positive,positive,"{""sentiment"": ""positive""}",354.96039999998175,214,8
+788,dinner menu,positive,positive,"{""sentiment"": ""positive""}",365.2445999999827,231,8
+789,entrees,positive,positive,"{""sentiment"": ""positive""}",357.67840000005435,231,8
+790,seafood,positive,positive,"{""sentiment"": ""positive""}",353.08980000002066,231,8
+791,steaks,positive,positive,"{""sentiment"": ""positive""}",354.04000000005453,231,8
+792,non-meat alternatives,neutral,positive,"{""sentiment"": ""positive""}",361.28370000005816,233,8
+793,menu,negative,negative,"{""sentiment"": ""negative""}",357.4287999999797,217,8
+794,food,negative,negative,"{""sentiment"": ""negative""}",354.789799999935,217,8
+795,appetizers,neutral,neutral,"{""sentiment"": ""neutral""}",407.1110999999519,213,8
+796,service,negative,negative,"{""sentiment"": ""negative""}",348.9142000000811,211,8
+797,food,negative,negative,"{""sentiment"": ""negative""}",390.0846999999885,208,8
+798,price,negative,negative,"{""sentiment"": ""negative""}",356.9883000000118,208,8
+799,waitress,negative,negative,"{""sentiment"": ""negative""}",373.5894000000144,246,8
+800,entree,neutral,negative,"{""sentiment"": ""negative""}",360.244200000011,246,8
+801,prices,positive,neutral,"{""sentiment"": ""neutral""}",386.2953999999945,205,8
+802,bill,negative,neutral,"{""sentiment"": ""neutral""}",393.7152999999398,211,8
+803,gratuity,negative,negative,"{""sentiment"": ""negative""}",357.2095999999192,213,8
+804,halibut cheek appetizer,neutral,positive,"{""sentiment"": ""positive""}",373.3008000000382,236,8
+805,portion of foie gras,positive,positive,"{""sentiment"": ""positive""}",358.58250000001135,235,8
+806,Food,positive,positive,"{""sentiment"": ""positive""}",360.9623999999485,221,8
+807,empenadas,positive,positive,"{""sentiment"": ""positive""}",359.7970999999234,223,8
+808,plaintains,positive,positive,"{""sentiment"": ""positive""}",364.40349999998034,222,8
+809,afternoon snack,positive,positive,"{""sentiment"": ""positive""}",370.32220000003235,223,8
+810,pasta specials,positive,positive,"{""sentiment"": ""positive""}",398.5599000000093,214,8
+811,appetizer,positive,positive,"{""sentiment"": ""positive""}",354.1106000000127,215,8
+812,Big Mac,positive,positive,"{""sentiment"": ""positive""}",371.3994999999386,237,8
+813,Chicken McNuggets,positive,positive,"{""sentiment"": ""positive""}",360.2875999999924,239,8
+814,Filet-O-Fish sandwich,positive,positive,"{""sentiment"": ""positive""}",355.007799999953,241,8
+815,McDonald's famous french fries,positive,positive,"{""sentiment"": ""positive""}",355.97469999993336,241,8
+816,entree-sized salads,neutral,positive,"{""sentiment"": ""positive""}",360.94420000006266,239,8
+817,pizza,positive,positive,"{""sentiment"": ""positive""}",366.3341000000173,222,8
+818,Tables,negative,negative,"{""sentiment"": ""negative""}",400.82059999997455,216,8
+819,lunch,neutral,positive,"{""sentiment"": ""positive""}",362.7774000000272,222,8
+820,scene,positive,positive,"{""sentiment"": ""positive""}",409.37050000002273,214,8
+821,blue bar area,positive,positive,"{""sentiment"": ""positive""}",392.8267000000005,209,8
+822,upstrairs dining area,neutral,neutral,"{""sentiment"": ""neutral""}",362.02609999998003,228,8
+823,veggie burger,positive,positive,"{""sentiment"": ""positive""}",370.5888000000641,235,8
+824,chickpeas,positive,positive,"{""sentiment"": ""positive""}",358.1364000000349,235,8
+825,carrots,positive,positive,"{""sentiment"": ""positive""}",353.6970999999767,233,8
+826,vegetables,positive,positive,"{""sentiment"": ""positive""}",354.1397000000188,233,8
+827,spices,positive,positive,"{""sentiment"": ""positive""}",356.37310000004163,233,8
+828,tables,negative,negative,"{""sentiment"": ""negative""}",405.7784999999967,216,8
+829,service,positive,positive,"{""sentiment"": ""positive""}",417.78099999999085,215,8
+830,Menus,neutral,positive,"{""sentiment"": ""positive""}",403.9042999999083,216,8
+831,sweet corn-foie gras brulee,neutral,positive,"{""sentiment"": ""positive""}",390.0466000000051,224,8
+832,Carinthia cheese ravioli with wild mushrooms,positive,positive,"{""sentiment"": ""positive""}",380.79689999995026,250,8
+833,caviar-topped sturgeon,positive,positive,"{""sentiment"": ""positive""}",356.67420000004313,246,8
+834,green spinach-vodka sauce,positive,positive,"{""sentiment"": ""positive""}",354.7550999999203,245,8
+835,burgers,positive,positive,"{""sentiment"": ""positive""}",363.5811000000331,224,8
+836,patties,positive,positive,"{""sentiment"": ""positive""}",355.55650000003425,224,8
+837,lunch,neutral,positive,"{""sentiment"": ""positive""}",361.4782000000787,221,8
+838,delivery service,positive,positive,"{""sentiment"": ""positive""}",353.2895999999255,221,8
+839,quality,positive,positive,"{""sentiment"": ""positive""}",399.7090999999955,211,8
+840,prices,positive,positive,"{""sentiment"": ""positive""}",357.6289000000088,211,8
+841,staff person,neutral,negative,"{""sentiment"": ""negative""}",362.49369999995906,224,8
+842,fork,neutral,negative,"{""sentiment"": ""negative""}",361.8182000000161,223,8
+843,specials,positive,positive,"{""sentiment"": ""positive""}",405.8416999999963,214,8
+844,salmon,negative,negative,"{""sentiment"": ""negative""}",353.6879000000681,214,8
+845,pastas,positive,positive,"{""sentiment"": ""positive""}",394.65240000004087,207,8
+846,Atmosphere,negative,negative,"{""sentiment"": ""negative""}",402.0002999999406,209,8
+847,decor,positive,positive,"{""sentiment"": ""positive""}",436.012900000037,210,8
+848,wait staff,positive,positive,"{""sentiment"": ""positive""}",394.4877000000133,209,8
+849,food,positive,positive,"{""sentiment"": ""positive""}",399.4694000000436,208,8
+850,dishes,positive,positive,"{""sentiment"": ""positive""}",424.6540999999979,212,8
+851,place,positive,positive,"{""sentiment"": ""positive""}",359.6410999999762,212,8
+852,desserts,positive,positive,"{""sentiment"": ""positive""}",410.01380000000154,209,8
+853,food,positive,positive,"{""sentiment"": ""positive""}",360.9610999999404,225,8
+854,staff,positive,positive,"{""sentiment"": ""positive""}",352.06460000006246,225,8
+855,Service,positive,positive,"{""sentiment"": ""positive""}",395.2103999999963,209,8
+856,atmosphere,positive,positive,"{""sentiment"": ""positive""}",357.7271000000337,211,8
+857,Branzini,neutral,negative,"{""sentiment"": ""negative""}",389.22519999994165,221,8
+858,fish,negative,negative,"{""sentiment"": ""negative""}",386.89839999995,219,8
+859,food,positive,positive,"{""sentiment"": ""positive""}",403.58659999992597,215,8
+860,service,positive,positive,"{""sentiment"": ""positive""}",355.3625000000693,215,8
+861,price,positive,positive,"{""sentiment"": ""positive""}",353.3276000000569,215,8
+862,menu,positive,positive,"{""sentiment"": ""positive""}",359.1826999999057,217,8
+863,ambiance,positive,positive,"{""sentiment"": ""positive""}",353.59940000000734,218,8
+864,service,positive,positive,"{""sentiment"": ""positive""}",356.2509000000773,217,8
+865,FOOD,positive,positive,"{""sentiment"": ""positive""}",358.46860000003744,218,8
+866,food,positive,positive,"{""sentiment"": ""positive""}",396.50619999997616,210,8
+867,wine,positive,positive,"{""sentiment"": ""positive""}",362.9726000000346,210,8
+868,host,positive,positive,"{""sentiment"": ""positive""}",355.55939999994735,210,8
+869,Pizzas,positive,positive,"{""sentiment"": ""positive""}",400.649000000044,212,8
+870,appetizers,positive,positive,"{""sentiment"": ""positive""}",359.7467999999253,214,8
+871,main courses,positive,positive,"{""sentiment"": ""positive""}",355.027199999995,213,8
+872,calamari,positive,positive,"{""sentiment"": ""positive""}",359.7045999999864,221,8
+873,pasta,positive,positive,"{""sentiment"": ""positive""}",361.24680000000353,219,8
+874,Sliced steak entree,positive,positive,"{""sentiment"": ""positive""}",355.7561000000078,222,8
+875,caeser salad,positive,positive,"{""sentiment"": ""positive""}",398.62189999996644,210,8
+876,fried calamari,positive,positive,"{""sentiment"": ""positive""}",393.0050999999821,209,8
+877,food,positive,positive,"{""sentiment"": ""positive""}",389.902500000062,206,8
+878,food,positive,positive,"{""sentiment"": ""positive""}",388.4381000000303,209,8
+879,service,positive,positive,"{""sentiment"": ""positive""}",356.6578999999592,209,8
+880,portions,positive,positive,"{""sentiment"": ""positive""}",403.84099999994305,212,8
+881,service,positive,positive,"{""sentiment"": ""positive""}",349.7941999999057,211,8
+882,chicken milanese,positive,positive,"{""sentiment"": ""positive""}",400.61229999992065,209,8
+883,tapas,positive,positive,"{""sentiment"": ""positive""}",360.2348000000575,220,8
+884,prices,positive,positive,"{""sentiment"": ""positive""}",361.5730999999869,219,8
+885,chocolate raspberry cake,positive,positive,"{""sentiment"": ""positive""}",362.768200000005,218,8
+886,flavor,positive,positive,"{""sentiment"": ""positive""}",353.0320000000984,216,8
+887,waiter,positive,positive,"{""sentiment"": ""positive""}",359.62610000001405,221,8
+888,food,positive,positive,"{""sentiment"": ""positive""}",353.7451999999348,220,8
+889,wine,positive,positive,"{""sentiment"": ""positive""}",399.4357000000264,220,8
+890,MEAL,positive,positive,"{""sentiment"": ""positive""}",360.7825999999932,219,8
+891,SERVICE,positive,positive,"{""sentiment"": ""positive""}",357.6596000000336,218,8
+892,hot dogs,positive,positive,"{""sentiment"": ""positive""}",400.4089999999678,210,8
+893,service,positive,positive,"{""sentiment"": ""positive""}",395.04450000004,208,8
+894,food,positive,positive,"{""sentiment"": ""positive""}",399.26119999995535,211,8
+895,wine,positive,positive,"{""sentiment"": ""positive""}",350.0031000000945,211,8
+896,desserts,positive,positive,"{""sentiment"": ""positive""}",359.11939999994047,212,8
+897,dining experience,positive,positive,"{""sentiment"": ""positive""}",409.3445999999403,214,8
+898,food,negative,negative,"{""sentiment"": ""negative""}",401.90789999996923,212,8
+899,service,negative,negative,"{""sentiment"": ""negative""}",353.44659999998385,212,8
+900,escargot,positive,positive,"{""sentiment"": ""positive""}",362.02410000009877,224,8
+901,menu,positive,positive,"{""sentiment"": ""positive""}",363.016000000016,224,8
+902,Deco,positive,positive,"{""sentiment"": ""positive""}",395.8939999999984,209,8
+903,ambiance,positive,positive,"{""sentiment"": ""positive""}",352.5131000000101,209,8
+904,french food,positive,positive,"{""sentiment"": ""positive""}",396.26590000000306,214,8
+905,Indian food,positive,positive,"{""sentiment"": ""positive""}",359.3352999999979,218,8
+906,curry,positive,positive,"{""sentiment"": ""positive""}",361.7862999999488,222,8
+907,poori,positive,positive,"{""sentiment"": ""positive""}",400.5152999999382,216,8
+908,naan,positive,positive,"{""sentiment"": ""positive""}",357.06340000001546,216,8
+909,paratha,positive,positive,"{""sentiment"": ""positive""}",358.500499999991,216,8
+910,homemade breads,positive,positive,"{""sentiment"": ""positive""}",401.36870000003455,209,8
+911,sushi,positive,positive,"{""sentiment"": ""positive""}",399.0005000000565,213,8
+912,Korean dishes,positive,positive,"{""sentiment"": ""positive""}",356.23199999997723,217,8
+913,prix fixe menu,neutral,neutral,"{""sentiment"": ""neutral""}",402.83130000000256,216,8
+914,waiter,positive,positive,"{""sentiment"": ""positive""}",411.2592000000177,216,8
+915,place,positive,positive,"{""sentiment"": ""positive""}",360.671699999898,220,8
+916,service,positive,positive,"{""sentiment"": ""positive""}",351.93420000007336,220,8
+917,food,positive,positive,"{""sentiment"": ""positive""}",355.52549999999883,220,8
+918,burgers,positive,positive,"{""sentiment"": ""positive""}",396.94279999991977,210,8
+919,grilled cheeses,positive,positive,"{""sentiment"": ""positive""}",364.0028000000939,211,8
+920,french fries,positive,positive,"{""sentiment"": ""positive""}",355.1661999999851,210,8
+921,Yellowfin Tuna,positive,positive,"{""sentiment"": ""positive""}",401.6229999999723,216,8
+922,Calf's liver,positive,positive,"{""sentiment"": ""positive""}",360.56619999999384,215,8
+923,Sushi,positive,positive,"{""sentiment"": ""positive""}",397.1954999999525,211,8
+924,bill,negative,negative,"{""sentiment"": ""negative""}",362.7251000000342,223,8
+925,steak,neutral,positive,"{""sentiment"": ""positive""}",363.0117000000155,232,8
+926,choices of sauces,positive,positive,"{""sentiment"": ""positive""}",363.1511999999475,233,8
+927,sauce cart,neutral,positive,"{""sentiment"": ""positive""}",354.7555000000102,232,8
+928,table,neutral,neutral,"{""sentiment"": ""neutral""}",355.5799000000661,231,8
+929,sushi,positive,positive,"{""sentiment"": ""positive""}",367.0541999999841,230,8
+930,duck,positive,positive,"{""sentiment"": ""positive""}",350.64520000003085,230,8
+931,entrees,neutral,positive,"{""sentiment"": ""positive""}",357.39060000003064,231,8
+932,variety,positive,positive,"{""sentiment"": ""positive""}",408.84200000004967,207,8
+933,utensils,neutral,negative,"{""sentiment"": ""negative""}",361.3108999999213,225,8
+934,pie,neutral,negative,"{""sentiment"": ""negative""}",372.6135000000568,223,8
+935,thin crust,negative,negative,"{""sentiment"": ""negative""}",378.45119999997223,224,8
+936,slices,negative,negative,"{""sentiment"": ""negative""}",380.20910000000185,223,8
+937,green beans,neutral,negative,"{""sentiment"": ""negative""}",368.00510000011855,223,8
+938,egg,neutral,negative,"{""sentiment"": ""negative""}",361.71059999992394,222,8
+939,anchovy dressing,neutral,negative,"{""sentiment"": ""negative""}",361.9080999999369,224,8
+940,nicoise olives,neutral,negative,"{""sentiment"": ""negative""}",352.81880000002275,225,8
+941,red onion,neutral,negative,"{""sentiment"": ""negative""}",357.65790000004927,223,8
+942,meal,neutral,neutral,"{""sentiment"": ""neutral""}",362.3336999999083,224,8
+943,Amazin' Greens salads,neutral,neutral,"{""sentiment"": ""neutral""}",358.8104000000385,229,8
+944,Buffalo Chicken Kickers,neutral,neutral,"{""sentiment"": ""neutral""}",362.5420999999278,228,8
+945,Cinna Stix,neutral,neutral,"{""sentiment"": ""neutral""}",361.95309999993697,227,8
+946,side orders,neutral,neutral,"{""sentiment"": ""neutral""}",353.7555999998858,225,8
+947,fries,neutral,positive,"{""sentiment"": ""positive""}",364.5799999999326,227,8
+948,meaty chili,neutral,positive,"{""sentiment"": ""positive""}",357.840699999997,229,8
+949,stuffed baked potatoes,neutral,neutral,"{""sentiment"": ""neutral""}",355.7822000000215,230,8
+950,menu,neutral,positive,"{""sentiment"": ""positive""}",355.44479999998657,227,8
+951,chocolate Frosty,positive,neutral,"{""sentiment"": ""neutral""}",359.62560000007215,230,8
+952,waiter,neutral,negative,"{""sentiment"": ""negative""}",361.1975999999686,220,8
+953,menu,neutral,negative,"{""sentiment"": ""negative""}",355.7393000000957,219,8
+954,cake,negative,negative,"{""sentiment"": ""negative""}",372.24779999996827,237,8
+955,employees,negative,negative,"{""sentiment"": ""negative""}",359.71410000001924,237,8
+956,Cherry Marscapone,neutral,negative,"{""sentiment"": ""negative""}",362.3681999999917,224,8
+957,roti canai appetizer,positive,positive,"{""sentiment"": ""positive""}",381.53699999998025,253,8
+958,mango chicken,positive,positive,"{""sentiment"": ""positive""}",361.04519999980766,249,8
+959,fried pancake served with pungent curry dipping sauce,positive,positive,"{""sentiment"": ""positive""}",401.52820000002976,258,8
+960,outside,negative,negative,"{""sentiment"": ""negative""}",360.05920000002334,224,8
+961,atmosphere,positive,positive,"{""sentiment"": ""positive""}",356.6392000000178,226,8
+962,ground chickpea soup,negative,negative,"{""sentiment"": ""negative""}",362.0124000001397,218,8
+963,starter,neutral,negative,"{""sentiment"": ""negative""}",358.0158999998275,214,8
+964,sushi,negative,negative,"{""sentiment"": ""negative""}",360.93540000001667,220,8
+965,service,negative,negative,"{""sentiment"": ""negative""}",382.77690000018083,261,8
+966,quality of food,positive,positive,"{""sentiment"": ""positive""}",357.5945000000047,263,8
+967,bartenders,negative,negative,"{""sentiment"": ""negative""}",359.6363999999994,262,8
+968,clientele,negative,negative,"{""sentiment"": ""negative""}",364.5527999999558,262,8
+969,staff,negative,negative,"{""sentiment"": ""negative""}",361.7695000000367,261,8
+970,meal,positive,positive,"{""sentiment"": ""positive""}",396.68329999994967,214,8
+971,desserts,neutral,negative,"{""sentiment"": ""negative""}",368.1240999999318,218,8
+972,tables,negative,neutral,"{""sentiment"": ""neutral""}",395.6425000001218,209,8
+973,rooftop bar,neutral,neutral,"{""sentiment"": ""neutral""}",360.3290000000925,212,8
+974,decoration,positive,positive,"{""sentiment"": ""positive""}",360.8406999999261,220,8
+975,ambience,positive,positive,"{""sentiment"": ""positive""}",362.1633999998721,233,8
+976,food,positive,positive,"{""sentiment"": ""positive""}",354.44040000015775,232,8
+977,catfish,positive,positive,"{""sentiment"": ""positive""}",355.8974000000035,233,8
+978,service,positive,positive,"{""sentiment"": ""positive""}",359.1931000000841,232,8
+979,food,neutral,neutral,"{""sentiment"": ""neutral""}",403.9950999999746,212,8
+980,brisket,positive,positive,"{""sentiment"": ""positive""}",361.4227000000483,228,8
+981,ribs,positive,positive,"{""sentiment"": ""positive""}",357.64900000003763,227,8
+982,wings,positive,positive,"{""sentiment"": ""positive""}",354.2168000001311,226,8
+983,cajun shrimp,neutral,positive,"{""sentiment"": ""positive""}",358.97060000002057,228,8
+984,atmosphere,positive,positive,"{""sentiment"": ""positive""}",360.6940999998187,231,8
+985,counter,neutral,neutral,"{""sentiment"": ""neutral""}",363.927300000114,232,8
+986,bottle of wine,neutral,neutral,"{""sentiment"": ""neutral""}",397.4938999999722,211,8
+987,menu,positive,positive,"{""sentiment"": ""positive""}",383.51239999997233,259,8
+988,Japanese dishes,neutral,positive,"{""sentiment"": ""positive""}",360.91179999993983,260,8
+989,Foie Gras Unagi Napolean,neutral,positive,"{""sentiment"": ""positive""}",389.3536000000495,266,8
+990,Jap style hamburger steak,neutral,positive,"{""sentiment"": ""positive""}",356.6788999999062,262,8
+991,spicy cod roe spaghetti,neutral,positive,"{""sentiment"": ""positive""}",363.8217000000168,264,8
+992,black cod with miso base,neutral,neutral,"{""sentiment"": ""neutral""}",363.25319999991734,264,8
+993,rack of lamb in black truffle sauce,neutral,positive,"{""sentiment"": ""positive""}",364.6011999999246,266,8
+994,food,positive,positive,"{""sentiment"": ""positive""}",366.15419999998267,231,8
+995,appetizers,positive,positive,"{""sentiment"": ""positive""}",361.7432999999437,233,8
+996,entrees,positive,negative,"{""sentiment"": ""negative""}",350.2158999999665,232,8
+997,food,positive,positive,"{""sentiment"": ""positive""}",363.73790000016015,220,8
+998,pasta primavera,positive,positive,"{""sentiment"": ""positive""}",403.50100000000566,217,8
+999,fresh veggies,positive,positive,"{""sentiment"": ""positive""}",358.1923000001552,215,8
+1000,sushi,positive,positive,"{""sentiment"": ""positive""}",408.35900000001857,214,8
+1001,flan,positive,positive,"{""sentiment"": ""positive""}",365.34290000008696,231,8
+1002,pizza,positive,positive,"{""sentiment"": ""positive""}",360.80889999993815,230,8
+1003,dinner,neutral,positive,"{""sentiment"": ""positive""}",420.1701000001776,212,8
+1004,food,positive,positive,"{""sentiment"": ""positive""}",360.0572000000284,212,8
+1005,wine,positive,positive,"{""sentiment"": ""positive""}",362.6209999999901,224,8
+1006,dessert menu,positive,positive,"{""sentiment"": ""positive""}",355.60629999986304,226,8
+1007,place,positive,positive,"{""sentiment"": ""positive""}",376.78600000003826,242,8
+1008,bar,positive,positive,"{""sentiment"": ""positive""}",356.8622999998752,242,8
+1009,takeout,neutral,positive,"{""sentiment"": ""positive""}",360.9610999999404,243,8
+1010,ambiance,positive,positive,"{""sentiment"": ""positive""}",400.0372000000425,214,8
+1011,cocktail hour,positive,neutral,"{""sentiment"": ""neutral""}",364.62329999994836,228,8
+1012,filet mignon,negative,negative,"{""sentiment"": ""negative""}",359.7939999999653,229,8
+1013,non-sushi selection,positive,positive,"{""sentiment"": ""positive""}",357.78030000005856,229,8
+1014,appetizers,positive,positive,"{""sentiment"": ""positive""}",358.64139999989675,228,8
+1015,courses,neutral,negative,"{""sentiment"": ""negative""}",359.198699999979,218,8
+1016,served,negative,negative,"{""sentiment"": ""negative""}",359.26659999995536,218,8
+1017,place,neutral,negative,"{""sentiment"": ""negative""}",404.8233999999411,212,8
+1018,size,negative,neutral,"{""sentiment"": ""neutral""}",403.5073000000011,213,8
+1019,chicken tacos,positive,positive,"{""sentiment"": ""positive""}",373.20210000007137,235,8
+1020,Hibiscus lemonade,positive,positive,"{""sentiment"": ""positive""}",361.91680000001725,237,8
+1021,place,positive,positive,"{""sentiment"": ""positive""}",359.223300000167,233,8
+1022,place,positive,positive,"{""sentiment"": ""positive""}",367.2476000001552,226,8
+1023,soup,neutral,positive,"{""sentiment"": ""positive""}",358.8787000001048,226,8
+1024,french dish,neutral,positive,"{""sentiment"": ""positive""}",353.9181000001008,227,8
+1025,glass of wine,neutral,positive,"{""sentiment"": ""positive""}",358.6542999998983,228,8
+1026,place,positive,positive,"{""sentiment"": ""positive""}",393.342500000017,210,8
+1027,casual drink,positive,positive,"{""sentiment"": ""positive""}",364.27709999998115,230,8
+1028,outdoors,positive,positive,"{""sentiment"": ""positive""}",354.0624999998272,229,8
+1029,place,positive,positive,"{""sentiment"": ""positive""}",351.1975999999777,228,8
+1030,dance floor,neutral,negative,"{""sentiment"": ""negative""}",413.4142000000338,212,8
+1031,pre-show meal,neutral,negative,"{""sentiment"": ""negative""}",364.8209999998926,231,8
+1032,fried foods,negative,neutral,"{""sentiment"": ""neutral""}",367.6112999999077,234,8
+1033,dishes,positive,positive,"{""sentiment"": ""positive""}",355.22609999998167,233,8
+1034,lamb entree,positive,positive,"{""sentiment"": ""positive""}",357.0118000000093,236,8
+1035,salads (avocado shrimp),positive,positive,"{""sentiment"": ""positive""}",368.14810000009857,238,8
+1036,service,negative,neutral,"{""sentiment"": ""neutral""}",364.2924999999195,224,8
+1037,dabs of real mozzarella,neutral,positive,"{""sentiment"": ""positive""}",358.66920000012215,219,8
+1038,sauce,positive,positive,"{""sentiment"": ""positive""}",357.61520000005476,215,8
+1039,drinks,negative,negative,"{""sentiment"": ""negative""}",365.5549999998584,229,8
+1040,people,negative,negative,"{""sentiment"": ""negative""}",355.8364000000438,228,8
+1041,dining,negative,negative,"{""sentiment"": ""negative""}",359.3541999998706,228,8
+1042,room,negative,neutral,"{""sentiment"": ""neutral""}",363.2013999999799,230,8
+1043,place,negative,neutral,"{""sentiment"": ""neutral""}",356.90500000009706,230,8
+1044,Prices,positive,positive,"{""sentiment"": ""positive""}",406.0543000000507,209,8
+1045,space,positive,positive,"{""sentiment"": ""positive""}",366.78059999985635,221,8
+1046,outdoor eating area,positive,positive,"{""sentiment"": ""positive""}",363.6756000000787,224,8
+1047,[female] servers,positive,positive,"{""sentiment"": ""positive""}",362.3099999999795,218,8
+1048,dessert,positive,positive,"{""sentiment"": ""positive""}",362.93109999996886,228,8
+1049,chocolate and peanut butter tart,positive,positive,"{""sentiment"": ""positive""}",360.4723999999351,232,8
+1050,sweets,neutral,positive,"{""sentiment"": ""positive""}",355.17170000002807,227,8
+1051,appetizer,neutral,positive,"{""sentiment"": ""positive""}",395.29650000008587,214,8
+1052,calamari,positive,positive,"{""sentiment"": ""positive""}",356.9247999998879,214,8
+1053,service,positive,positive,"{""sentiment"": ""positive""}",365.2185000000827,222,8
+1054,food,positive,positive,"{""sentiment"": ""positive""}",356.00139999996827,222,8
+1055,dinner,neutral,neutral,"{""sentiment"": ""neutral""}",421.56569999997373,215,8
+1056,music,neutral,neutral,"{""sentiment"": ""neutral""}",353.5511000000042,215,8
+1057,lounge,neutral,neutral,"{""sentiment"": ""neutral""}",353.8882999998805,216,8
+1058,room,positive,positive,"{""sentiment"": ""positive""}",358.6534000000938,217,8
+1059,bi-level space,positive,positive,"{""sentiment"": ""positive""}",362.523900000042,219,8
+1060,long bar,positive,positive,"{""sentiment"": ""positive""}",361.13139999997657,218,8
+1061,drink,neutral,positive,"{""sentiment"": ""positive""}",360.2298000000701,217,8
+1062,appetizer selection,negative,negative,"{""sentiment"": ""negative""}",365.39360000006127,227,8
+1063,mozzarella sticks,neutral,positive,"{""sentiment"": ""positive""}",357.8721000001224,226,8
+1064,menu,negative,negative,"{""sentiment"": ""negative""}",359.32510000020557,224,8
+1065,waitstaff,positive,positive,"{""sentiment"": ""positive""}",370.72029999990264,244,8
+1066,service,positive,positive,"{""sentiment"": ""positive""}",352.31900000007954,243,8
+1067,chicken and falafel platters,neutral,negative,"{""sentiment"": ""negative""}",363.7250000001586,224,8
+1068,fresh leaf salad,neutral,neutral,"{""sentiment"": ""neutral""}",357.7946000000338,219,8
+1069,atmosphere,positive,positive,"{""sentiment"": ""positive""}",406.8288000000848,215,8
+1070,waiters,negative,negative,"{""sentiment"": ""negative""}",361.2313000000995,223,8
+1071,desserts,positive,positive,"{""sentiment"": ""positive""}",362.012199999981,229,8
+1072,coffee,positive,positive,"{""sentiment"": ""positive""}",356.85669999998026,228,8
+1073,served,neutral,positive,"{""sentiment"": ""positive""}",400.75309999997444,215,8
+1074,Focacchia bread,neutral,positive,"{""sentiment"": ""positive""}",361.2651000000824,218,8
+1075,smoothies,negative,negative,"{""sentiment"": ""negative""}",363.70830000009846,223,8
+1076,fresh juices,positive,positive,"{""sentiment"": ""positive""}",359.7514999999021,223,8
+1077,pialla,positive,positive,"{""sentiment"": ""positive""}",362.96790000005785,233,8
+1078,dish,positive,positive,"{""sentiment"": ""positive""}",358.8942000001225,232,8
+1079,fresh salsa,neutral,neutral,"{""sentiment"": ""neutral""}",362.9369999998744,220,8
+1080,flavor,negative,negative,"{""sentiment"": ""negative""}",365.2060999997957,220,8
+1081,prices,negative,negative,"{""sentiment"": ""negative""}",398.5323999997945,267,8
+1082,new menu,positive,positive,"{""sentiment"": ""positive""}",359.81280000009974,268,8
+1083,lunch,neutral,neutral,"{""sentiment"": ""neutral""}",398.87560000011035,214,8
+1084,food,positive,positive,"{""sentiment"": ""positive""}",354.7610999999051,213,8
+1085,seafood,positive,positive,"{""sentiment"": ""positive""}",363.7378999999328,223,8
+1086,Greek food,positive,positive,"{""sentiment"": ""positive""}",356.58090000015363,223,8
+1087,menu,neutral,neutral,"{""sentiment"": ""neutral""}",370.8212999999887,234,8
+1088,burgers,neutral,neutral,"{""sentiment"": ""neutral""}",356.18399999998474,235,8
+1089,steaks,neutral,neutral,"{""sentiment"": ""neutral""}",355.4283000000851,235,8
+1090,shepherds pie,neutral,neutral,"{""sentiment"": ""neutral""}",362.8813000000264,237,8
+1091,portabella lasagna,neutral,positive,"{""sentiment"": ""positive""}",362.43289999993067,237,8
+1092,pub fare,neutral,neutral,"{""sentiment"": ""neutral""}",361.62530000001425,235,8
+1093,food,neutral,negative,"{""sentiment"": ""negative""}",407.32040000011693,214,8
+1094,prices,negative,negative,"{""sentiment"": ""negative""}",357.9320999999709,214,8
+1095,service,negative,negative,"{""sentiment"": ""negative""}",405.1736000001256,210,8
+1096,food,neutral,negative,"{""sentiment"": ""negative""}",355.3165999999237,210,8
+1097,food,neutral,negative,"{""sentiment"": ""negative""}",405.33899999991263,216,8
+1098,prices,negative,negative,"{""sentiment"": ""negative""}",359.8781999999119,216,8
+1099,menu,positive,positive,"{""sentiment"": ""positive""}",406.9535999999516,216,8
+1100,menu,neutral,positive,"{""sentiment"": ""positive""}",363.04150000000845,224,8
+1101,waiter,negative,negative,"{""sentiment"": ""negative""}",363.68130000005294,224,8
+1102,meal,neutral,negative,"{""sentiment"": ""negative""}",358.49549999988994,223,8
+1103,brunch,neutral,neutral,"{""sentiment"": ""neutral""}",363.0691000000752,219,8
+1104,vegan cranberry pancakes,neutral,neutral,"{""sentiment"": ""neutral""}",359.8858999998811,222,8
+1105,rice milk,neutral,neutral,"{""sentiment"": ""neutral""}",358.75609999993685,219,8
+1106,bartender,positive,positive,"{""sentiment"": ""positive""}",363.19319999984145,220,8
+1107,service,negative,negative,"{""sentiment"": ""negative""}",369.4471000001158,234,8
+1108,drink,neutral,negative,"{""sentiment"": ""negative""}",358.4937999999056,234,8
+1109,drinks,neutral,positive,"{""sentiment"": ""positive""}",358.97479999994175,235,8
+1110,owner,negative,negative,"{""sentiment"": ""negative""}",398.88159999986783,207,8
+1111,Owner,positive,positive,"{""sentiment"": ""positive""}",392.6123999999618,206,8
+1112,food,negative,negative,"{""sentiment"": ""negative""}",362.4423000001116,225,8
+1113,waiter,negative,negative,"{""sentiment"": ""negative""}",363.62400000007256,226,8
+1114,food,negative,negative,"{""sentiment"": ""negative""}",406.4984000001459,216,8
+1115,Creamy appetizers,positive,positive,"{""sentiment"": ""positive""}",370.09550000016134,241,8
+1116,warm pitas,neutral,positive,"{""sentiment"": ""positive""}",361.05640000005224,240,8
+1117,taramasalata,positive,positive,"{""sentiment"": ""positive""}",360.9642999999778,241,8
+1118,eggplant salad,positive,positive,"{""sentiment"": ""positive""}",364.67530000004444,240,8
+1119,"Greek yogurt (with cuccumber, dill, and garlic)",positive,positive,"{""sentiment"": ""positive""}",405.27480000014293,250,8
