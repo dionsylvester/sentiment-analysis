@@ -1,0 +1,11 @@
+{
+  "accuracy": 0.689,
+  "precision_macro": 0.6800569382506804,
+  "recall_macro": 0.7130703696684524,
+  "f1_macro": 0.6918594041191537,
+  "latency_ms": 32.85639802200001,
+  "model": "distilroberta-base",
+  "test_size": 1000,
+  "train_minutes": 7.527103408177694,
+  "gpu": "Tesla T4"
+}
