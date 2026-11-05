@@ -1,0 +1,16 @@
+{
+  "provider": "groq",
+  "model": "openai/gpt-oss-20b",
+  "prompt": "absa_extract_v1",
+  "sentences": 600,
+  "gold_aspects": 1120,
+  "invalid_rate": 0.0,
+  "aspect_recall": 0.8642857142857143,
+  "polarity_accuracy_on_found": 0.868801652892562,
+  "end_to_end_accuracy": 0.7508928571428571,
+  "aspects_per_sentence": 1.8466666666666667,
+  "latency_ms": 1550.127884500019,
+  "latency_ms_median": 1142.7126000003227,
+  "prompt_tokens_mean": 439.9816666666667,
+  "completion_tokens_mean": 79.95166666666667
+}
