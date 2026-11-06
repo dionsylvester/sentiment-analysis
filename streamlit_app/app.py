@@ -4,8 +4,6 @@ import json
 import os
 import re
 from pathlib import Path
-
-import altair as alt
 import docx
 import pandas as pd
 import requests
@@ -67,6 +65,7 @@ st.markdown(
     }}
     .stButton button:hover {{ color: var(--gold) !important; border-color: var(--gold) !important; }}
     .stButton button p {{ color: inherit !important; }}
+    [data-baseweb="radio"]:has(input:checked) > div:first-child {{ background: var(--gold) !important; }}
 
     [data-testid="stAlert"] > div {{ background: color-mix(in srgb, var(--gold) 14%, var(--bg)) !important; border: 1px solid var(--gold); border-radius: 12px; }}
     [data-testid="stAlert"] p {{ color: var(--fg) !important; }}
@@ -259,30 +258,17 @@ with tab_results:
     st.markdown("### Tweet sentiment")
     st.markdown('<div class="muted">Every model is scored on the same 1,000 tweets from the tweet_eval test split. '
                 'F1 macro is the headline metric.</div>', unsafe_allow_html=True)
-    rows, chart, highlight = [], [], set()
+    rows, highlight = [], set()
     deployed = {name for _, name in DEMO_MODELS.values()}
     for name, label, hardware in SENTIMENT_ROWS:
         if r := load_metrics(name):
             if name in deployed:
                 highlight.add(len(rows))
             rows.append([label, f'{r["f1_macro"]:.3f}', f'{r["accuracy"]:.3f}', f"{latency(r):,.1f} ms", hardware])
-            chart.append({"Model": label, "F1 macro": r["f1_macro"], "Demo": "in this demo" if name in deployed else "evaluated only"})
     st.markdown(html_table(["Model", "F1 macro", "Accuracy", "Latency (median)", "Hardware"], rows,
                            numeric={1, 2, 3}, highlight=highlight), unsafe_allow_html=True)
 
-    bars = alt.Chart(pd.DataFrame(chart)).mark_bar(cornerRadiusEnd=3).encode(
-        x=alt.X("F1 macro:Q", scale=alt.Scale(domain=[0.5, 0.75]), title="F1 macro"),
-        y=alt.Y("Model:N", sort="-x", title=None),
-        color=alt.Color("Demo:N", scale=alt.Scale(domain=["in this demo", "evaluated only"],
-                                                   range=[c["accent"], c["gold"]]), legend=alt.Legend(title=None, orient="bottom")),
-        tooltip=["Model", alt.Tooltip("F1 macro:Q", format=".3f")],
-    ).properties(height=34 * len(chart))
-    st.altair_chart(bars.configure(background="transparent").configure_view(stroke=None).configure_axis(
-        labelColor=c["fg"], titleColor=c["fg"], gridColor=c["fg"], gridOpacity=0.12, domainColor=c["fg"], domainOpacity=0.3,
-        labelFont="Helvetica", titleFont="Helvetica", titleFontWeight="normal", labelLimit=220,
-    ).configure_legend(labelColor=c["fg"], labelFont="Helvetica"), use_container_width=True, theme=None)
-    st.markdown('<div class="muted">Latencies come from different hardware and are not like-for-like. '
-                'The bar axis starts at 0.5.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="muted">Latencies come from different hardware and are not like-for-like.</div>', unsafe_allow_html=True)
 
     st.markdown("### Aspect-based sentiment")
     st.markdown('<div class="muted">SemEval-2014 Restaurants, 1,120 aspects in 600 sentences. Baselines: always '
