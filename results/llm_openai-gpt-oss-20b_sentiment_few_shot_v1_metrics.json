@@ -1,0 +1,15 @@
+{
+  "provider": "groq",
+  "model": "openai/gpt-oss-20b",
+  "prompt": "sentiment_few_shot_v1",
+  "test_size": 1000,
+  "accuracy": 0.691,
+  "precision_macro": 0.6800665117532162,
+  "recall_macro": 0.6962107616221406,
+  "f1_macro": 0.6835608617580208,
+  "invalid_rate": 0.0,
+  "latency_ms": 2546.4275399999974,
+  "latency_ms_median": 1055.68194999978,
+  "prompt_tokens_mean": 520.882,
+  "completion_tokens_mean": 44.235
+}

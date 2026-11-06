@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.708,
+  "precision_macro": 0.7014187167750586,
+  "recall_macro": 0.7196432362448232,
+  "f1_macro": 0.7092775150492713,
+  "latency_ms": 30.843515991004782,
+  "latency_ms_median": 31.37866549991486,
+  "agreement_with_fp32": 0.942,
+  "model_size_mb": 82.522668,
+  "model": "distilroberta ONNX int8",
+  "test_size": 1000
+}

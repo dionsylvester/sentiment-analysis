@@ -1,0 +1,10 @@
+{
+  "model": "linearsvc",
+  "train_size": 45633,
+  "test_size": 1000,
+  "accuracy": 0.611,
+  "precision_macro": 0.5972547196345527,
+  "recall_macro": 0.6127854174273538,
+  "f1_macro": 0.60359819015017,
+  "latency_ms": 0.3441999989999829
+}

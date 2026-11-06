@@ -14,43 +14,6 @@ NEUTRAL_PHRASES = {
     "neither good nor bad",
 }
 
-NEGATIVE_PHRASES = {
-    "good poison",
-    "nice poison",
-    "great poison",
-    "excellent poison",
-    "good scam",
-    "nice scam",
-    "great scam",
-    "good fraud",
-    "nice fraud",
-    "great fraud",
-    "good malware",
-    "nice malware",
-    "great malware",
-    "good virus",
-    "nice virus",
-    "great virus",
-    "good damage",
-    "nice damage",
-    "great damage",
-    "good disaster",
-    "nice disaster",
-    "great disaster",
-    "good failure",
-    "nice failure",
-    "great failure",
-    "good problem",
-    "nice problem",
-    "great problem",
-    "good pain",
-    "nice pain",
-    "great pain",
-    "good toxic",
-    "nice toxic",
-    "great toxic",
-}
-
 NEGATIVE_KEYWORDS = {
     "poison", "toxic", "toxicity", "scam", "fraud", "malware", "virus",
     "broken", "damage", "damaged", "dangerous", "unsafe", "disaster",
@@ -65,12 +28,12 @@ POSITIVE_ADJECTIVES = {
 }
 
 NEGATION_TERMS = {
-    "no", "not", "never", "hardly", "barely", "rarely", "without"
+    "no", "not", "never", "hardly", "barely", "rarely", "without", "zero"
 }
 
 
 def clean_for_rules(text: str) -> str:
-    text = str(text).lower()
+    text = str(text).lower().replace("’", "'")
 
     contractions = {
         "can't": "can not",
@@ -103,8 +66,12 @@ def clean_for_rules(text: str) -> str:
 
 
 def detect_neutral_phrase(cleaned_text: str) -> Optional[str]:
+    padded = f" {cleaned_text} "
     for phrase in NEUTRAL_PHRASES:
-        if phrase in cleaned_text:
+        if f" {phrase} " in padded:
+            rest = padded.replace(f" {phrase} ", " ").split()
+            if any(w in POSITIVE_ADJECTIVES or w in NEGATIVE_KEYWORDS for w in rest):
+                continue 
             return f"Detected neutral phrase: '{phrase}'"
     return None
 
@@ -112,14 +79,12 @@ def detect_neutral_phrase(cleaned_text: str) -> Optional[str]:
 def detect_negative_phrase(cleaned_text: str) -> Optional[str]:
     words = cleaned_text.split()
 
-    for phrase in NEGATIVE_PHRASES:
-        if phrase in cleaned_text:
-            return f"Detected misleading negative phrase: '{phrase}'"
-
     for i, word in enumerate(words):
         if word in POSITIVE_ADJECTIVES:
             window = words[i + 1:i + 4]
             for candidate in window:
+                if candidate in NEGATION_TERMS:
+                    break
                 if candidate in NEGATIVE_KEYWORDS:
                     return f"Positive adjective '{word}' appears near negative word '{candidate}'"
     return None
@@ -129,8 +94,10 @@ def detect_negation_flip(cleaned_text: str) -> Optional[str]:
     words = cleaned_text.split()
 
     for i, word in enumerate(words):
-        if word in NEGATION_TERMS:
+        if word in NEGATION_TERMS and words[i + 1:i + 2] != ["only"]:
             window = words[i + 1:i + 4]
+            if any(w in NEGATIVE_KEYWORDS for w in window):
+                window = window[:next(k for k, w in enumerate(window) if w in NEGATIVE_KEYWORDS)]
 
             if any(w in POSITIVE_ADJECTIVES for w in window):
                 return "Detected negation before positive word"

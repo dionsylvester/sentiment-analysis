@@ -1,0 +1,16 @@
+{
+  "provider": "ollama",
+  "model": "qwen2.5:7b",
+  "prompt": "absa_extract_v1",
+  "sentences": 600,
+  "gold_aspects": 1120,
+  "invalid_rate": 0.0,
+  "aspect_recall": 0.8375,
+  "polarity_accuracy_on_found": 0.9093816631130064,
+  "end_to_end_accuracy": 0.7616071428571428,
+  "aspects_per_sentence": 1.7166666666666666,
+  "latency_ms": 1221.4136493333385,
+  "latency_ms_median": 946.9348499999342,
+  "prompt_tokens_mean": 252.4,
+  "completion_tokens_mean": 30.668333333333333
+}
