@@ -95,8 +95,8 @@ def load_metrics(name: str) -> dict | None:
 SENTIMENT_ROWS = [
     ("linearsvc", "LinearSVC", "CPU"),
     ("linearsvc_rules", "LinearSVC + rules", "CPU"),
-    ("llm_qwen2.5-7b_sentiment_zero_shot_v1", "qwen2.5:7b, zero-shot", "laptop GPU"),
-    ("llm_qwen2.5-7b_sentiment_few_shot_v1", "qwen2.5:7b, few-shot", "laptop GPU"),
+    ("llm_qwen2.5-7b_sentiment_zero_shot_v1", "qwen2.5:7b, zero-shot", "local GPU¹"),
+    ("llm_qwen2.5-7b_sentiment_few_shot_v1", "qwen2.5:7b, few-shot", "local GPU¹"),
     ("llm_openai-gpt-oss-20b_sentiment_zero_shot_v1", "gpt-oss-20b, zero-shot", "Groq free API"),
     ("llm_openai-gpt-oss-20b_sentiment_few_shot_v1", "gpt-oss-20b, few-shot", "Groq free API"),
     ("distilroberta", "DistilRoBERTa, fine-tuned", "CPU, 2 threads"),
@@ -268,7 +268,8 @@ with tab_results:
     st.markdown(html_table(["Model", "F1 macro", "Accuracy", "Latency (median)", "Hardware"], rows,
                            numeric={1, 2, 3}, highlight=highlight), unsafe_allow_html=True)
 
-    st.markdown('<div class="muted">Latencies come from different hardware and are not like-for-like.</div>', unsafe_allow_html=True)
+    st.markdown('<div class="muted">Latencies come from different hardware, making them inherently non-comparable.<br>'
+                '¹ NVIDIA GeForce RTX 2060, 6 GB</div>', unsafe_allow_html=True)
 
     st.markdown("### Aspect-based sentiment")
     st.markdown('<div class="muted">SemEval-2014 Restaurants, 1,120 aspects in 600 sentences. Baselines: always '
